@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Mathrubhumi_News#/media/File:Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-e52da9e2798dccc55313dcbb1dc062fb" group-title="MALAYALAM", SAFARI TV
-https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
