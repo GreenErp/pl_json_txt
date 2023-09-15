@@ -1,11 +1,30 @@
 {
-        "pl":[
-        {"name": "Fluxus TV - English", "url": "https://bit.ly/FTV-ENG", "type": "m3u", "censored": false},
-        {"name": "Fluxus TV - Espanol", "url": "https://bit.ly/FTV-ESP", "type": "m3u", "censored": false},
-        {"name": "Fluxus TV - Arabic", "url": "https://bit.ly/FTV-ARA", "type": "m3u", "censored": false}
-        ],
-        "pl-more":[
-        {"name": "New_Movies_Test", "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u", "type": "m3u", "censored": false},
-        {"name": "Live Channels Test", "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u", "type": "m3u", "censored": false}
-        ]
+  "pl": [
+    {
+      "name": "Fluxus TV - English",
+      "url": "https://bit.ly/FTV-ENG",
+      "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "Fluxus TV - Espanol",
+      "url": "https://bit.ly/FTV-ESP",
+      "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "Fluxus TV - Arabic",
+      "url": "https://bit.ly/FTV-ARA",
+      "type": "m3u",
+      "censored": false
+    }
+  ],
+  "pl-more": [
+    {
+      "name": "New_Movies_Test",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
+      "type": "m3u",
+      "censored": false
+    }
+  ]
 }
