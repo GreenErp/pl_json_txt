@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://globalrisk111.wpenginepowered.com/wp-content/uploads/2016/03/cnn-logo-square.png" group-title="English News", CNN
-https://1439734486.rsc.cdn77.org/JQ5rGpeRjmIM8aB5a83IKQ==,1694767558/1439734486/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
+https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?hdnts=st=1694777934~exp=1694781534~acl=!*/110322/mathrubhuminews/*!yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/payload/yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/*~hmac=f7f65db77877c15b5dffbe211afb31bb57dd864d1d8f59f13c0fb5ffc79a2a01&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=MAL&ads.content_genre=NEWS&ads.channel=1309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-e52da9e2798dccc55313dcbb1dc062fb" group-title="MALAYALAM", SAFARI TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/manorama-news-white.png" group-title="MALAYALAM", MANORAMA NEWS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8?hdnts=st=1694778192~exp=1694781792~acl=!*/240122/manoramanews/*!yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/payload/yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/*~hmac=09c079d7f2f23a9dd9432a1cd5b2c6c0fc6287ca654de9c19fd32a42ede2bb12&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=MAL&ads.content_genre=NEWS&ads.channel=4152
 #EXTINF: 1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="Latest English Movies", BARBIE
 https://evif.onthecloudcdn.com/_v10/e7aa9f962be72181bcf2ea8549572a20f1de56bc44e7ca0e5fca936d9f1ff651d7c56fb5be1e79b5a42ffe38b9a1b5b2e789c834a5cb32d35f2bc2a7c43e599332fb320d257319d0ac0f52fde79c62aac23cd7e7799e267efa890223ef10c9bf967c6ae4eded1a3d44dd0c0ad157f6fae2af53055adee97519ea23317246d1e9e0865138fec521327e6848174c2763a8/playlist.m3u8
 #EXTINF: 1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w342/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="Latest English Movies", Indiana Jones and the Dial of Destiny
@@ -9,4 +15,3 @@ https://xis.fifteennet.com/_v10/1aac0363793c1b6a00a77e45055209b6c20a2ffa931803be
 https://xannpdjy0oyz.lions-vidcdn.com/hls2/01/00572/,7mjp4l6uur50_n,lang/eng/7mjp4l6uur50_eng,.urlset/master.m3u8?t=yOgSRQklPv_lWXi3oxV0_kjGA1cn6LEUJmvzV24-Ygs&s=1694776848&e=129600&f=2860093&srv=w8UOxXM7qyaC&i=0.4&sp=1500&p1=w8UOxXM7qyaC&p2=w8UOxXM7qyaC&asn=5384
 #EXTINF: 1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w342/iI5hIwhCnN87fbQlaAW2u3IcGtn.jpg" group-title="Malayalam Movies", Pappachan olivilaanu
 https://u9rirtyowmna.lions-vidcdn.com/hls2/01/00572/935lhxxlhais_n/index-v1-a1.m3u8?t=o-5QlLeqrBTgEh3bP1QOBnSNiCanZrbm3MHCoIWszow&s=1694777459&e=129600&f=2863443&srv=y8cwp9FNXm6W&i=0.4&sp=1500&p1=y8cwp9FNXm6W&p2=y8cwp9FNXm6W&asn=5384
-
