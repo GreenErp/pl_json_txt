@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?hdnts=st=1694777934~exp=1694781534~acl=!*/110322/mathrubhuminews/*!yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/payload/yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/*~hmac=f7f65db77877c15b5dffbe211afb31bb57dd864d1d8f59f13c0fb5ffc79a2a01&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=MAL&ads.content_genre=NEWS&ads.channel=1309
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-e52da9e2798dccc55313dcbb1dc062fb" group-title="MALAYALAM", SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/manorama-news-white.png" group-title="MALAYALAM", MANORAMA NEWS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8?hdnts=st=1694778192~exp=1694781792~acl=!*/240122/manoramanews/*!yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/payload/yuppTVCom_5_-1_c9409fbc4fcd4d5c_AE_217.165.109.50/*~hmac=09c079d7f2f23a9dd9432a1cd5b2c6c0fc6287ca654de9c19fd32a42ede2bb12&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=MAL&ads.content_genre=NEWS&ads.channel=4152
