@@ -169,8 +169,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="MALAYALAM",Malabar News
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="NCV.in" tvg-logo="https://i.imgur.com/HZy6x27.png" group-title="MALAYALAM",NCV (720p)
-http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="TAMIL",Asianet News Tamil (360p) 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
@@ -241,3 +239,14 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" tvg-chno="1" group-title="DISCOVERY+",Discovery Channel
+https://72n5.short.gy/Discovery_bjtech.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="DISCOVERY+",Investigation Discovery
+https://72n5.short.gy/Investigation_bjtech.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" tvg-chno="2" group-title="DISCOVERY+",Animal Planet
+https://72n5.short.gy/Animal_Planet_bjtech.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" tvg-chno="5" group-title="DISCOVERY+",Discovery Turbo
+https://72n5.short.gy/Discovery_turbo.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" tvg-chno="3" group-title="DISCOVERY+",Discovery Science
+https://72n5.short.gy/Discovery_science.m3u8
