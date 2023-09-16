@@ -12,6 +12,13 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="ENGLISH", AL-JASEERA
 https://youtu.be/gCNeDWCI0vo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wion-news-white.png" group-title="ENGLISH", WION
+https://yupplivefragcp1.yuppcdn.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/8ea5b97a-48a1-410b-a3ae-89d2f7361e45/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV-24x7_White.png" group-title="ENGLISH", NDTV
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvenglish_nim_https/020b1d6c-5c03-4114-9436-1b02f1ba592a/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
