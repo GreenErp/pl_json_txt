@@ -25,6 +25,8 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN COMEDY
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Moviesphere-Free.jpg" group-title="ENGLISH MOVIES", MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
