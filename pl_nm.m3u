@@ -11,7 +11,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/899/630/png-clipart-bbc-news-online-bbc-persian-television-bbc-sport-others-television-text.png" group-title="ENGLISH", BBC AMERICA
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="ENGLISH", AL-JASEERA
-https://youtu.be/gCNeDWCI0vo
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wion-news-white.png" group-title="ENGLISH", WION
 https://yupplivefragcp1.yuppcdn.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/8ea5b97a-48a1-410b-a3ae-89d2f7361e45/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/NDTV-24x7_White.png" group-title="ENGLISH", NDTV
