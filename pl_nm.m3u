@@ -25,8 +25,25 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION UK
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN COMEDY
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FAMILY
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN TOP FILMS
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FREE-1
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FREE-2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FREE-3
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FREE-6
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN FREE-7
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Moviesphere-Free.jpg" group-title="ENGLISH MOVIES", MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 

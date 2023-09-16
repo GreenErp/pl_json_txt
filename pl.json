@@ -21,7 +21,7 @@
   ],
   "pl-more": [
     {
-      "name": "New_Movies_Test",
+      "name": "New_Playlist_Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
       "censored": false
