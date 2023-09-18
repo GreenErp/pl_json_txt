@@ -247,8 +247,6 @@ https://owt.webarchivecdn.com/_v10/60589d7315dcb6607585c7980fe7530740665963a63a3
 https://cloudstream10.com/cdn/down/575f673fdd6a0cd0e5878c33f429f552/files/ec1c9fd181c0ee2868042b5c311f7866_video_480p_journey-of-love-18-malayalam-hd.mp4?md5=FcOKpENnx4g2QA0vZ57PpA&expires=1695126000
 #EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/kA5GbS4ucM7MzGehpJAteDCvKnC.jpg" group-title="Malayalam-movies", Digital Village
 https://cloudstream9.com/cdn/down/5d9d77a184d501e87b0341669898352f/files/6ec25c019e4534f8fb1925f3dfc88b06_video_720p_digital-village-malayalam-hd.mp4?md5=1-bGpOe2IenMLSfyA0MfaA&expires=1695126824
-#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/kA5GbS4ucM7MzGehpJAteDCvKnC.jpg" group-title="Malayalam-movies", Digital Village
-https://cloudstream9.com/cdn/down/5d9d77a184d501e87b0341669898352f/files/6ec25c019e4534f8fb1925f3dfc88b06_video_720p_digital-village-malayalam-hd.mp4?md5=1-bGpOe2IenMLSfyA0MfaA&expires=1695126824
 
-#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://tamilyogi.to/wp-content/uploads/Jawan-Tamil-2023.jpeg" group-title="Tamil-movies", JAWAAN
-https://cloudcolocation.net/hls/3swi6he7s34l7qma6h6r54exigjednsd5a3l3yg7n,3xqqz26oo6hsjp6hi6a,dxqsz26oo6g54pthxxa,.urlset/master.m3u8
+#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://tamilyogi.to/wp-content/uploads/Jawan-Tamil-2023.jpeg" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)" group-title="Tamil-movies", JAWAAN
+https://cloudcolocation.net/hls/3swi6he7s34l7qma6h6r54exigjednsd5a3l3yg7n,3xqqz26oo6lsgx6hi6a,dxqsz26oo6k5txthxxa,.urlset/master.m3u8
