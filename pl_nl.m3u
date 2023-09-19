@@ -169,8 +169,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="MALAYALAM",Malabar News
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="News",Zee News Malayalam
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="TAMIL",Asianet News Tamil (360p) 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
@@ -207,11 +205,6 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Others",Aleph News (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlMahdiTV.us" tvg-logo="https://i.imgur.com/S1YM83i.png" group-title="RELIGIOUS - ISLAM",Al-MahdiTV (1080p)
-https://stream.al-mahdi.tv/hls/1234.m3u8
-#EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-logo="https://i.imgur.com/IXpFcJA.png" group-title="RELIGIOUS - ISLAM",Ashrafi Channel (484p)
-https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-logo="https://i.imgur.com/NF5qJMh.png" group-title="Lifestyle",Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="CardioTVSRC.ro" tvg-logo="https://i.imgur.com/6Ab3KD6.png" group-title="Lifestyle",Cardio TV SRC (720p)
@@ -246,3 +239,5 @@ https://rouf.magnewscontent.org/_v10/ef34957d0bd1728462acbbaadd234c67241e33f83c6
 https://evif.onthecloudcdn.com/_v10/fa30abc4407274dca7128712e25a9f130ca2637f701bb593fa6d10dc0fe8c39f36abbffc57ebbc55d3a4dbb8e1eaaae014ba19c1aa3c63d442da66eec391ebe92a028a57aebad199903df23a666d5cd98fe3419057aae7fd688fb39b6e99aad17c474471927382f10f094e4effa9a609fff59c9e5fc34c71a9afafcabe618d70577b411426b722ce7d12e88e8e7a94ca/playlist.m3u8
 
  
+#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/xy2tXFmFJL3FTm2VytdjFeEO9jt.jpg" group-title="Malayalam-movies", journey of love 18+
+https://udrlvroyoqvy.sw-cdnstream.com/hls2/01/01415/,wyudetxyfpf1_n,lang/eng/4r6zt9ndqrrh_eng,.urlset/master.m3u8?t=aYTuxChNGkos1xq-cDK0miLCZHW0IVPXBdTOhuCNYBQ&s=1695056405&e=129600&f=7078926&srv=xjulwszvzhjq&i=0.4&sp=500&p1=xjulwszvzhjq&p2=xjulwszvzhjq&asn=15802
