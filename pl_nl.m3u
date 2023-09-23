@@ -227,10 +227,10 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
+#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://dhoom4u.me/stalker_portal/screenshots/724/72363.jpg" group-title="English-movies", Oppenheimer
+http://109.236.81.45/vod/disk2/vod/V/54.mp4
 #EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://img.vxdn.net/t-max/w_200/h_300/blue-beetle-1630855630.jpg" group-title="English-movies", Blue Beetle
 https://vidsrc.stream/playlist/1896498/list.m3u8
-#EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://img.solarmovie.pe/xxrz/250x400/338/a0/ca/a0ca9ad9615f50ad71a2ac0f521c8db3/a0ca9ad9615f50ad71a2ac0f521c8db3.jpg" group-title="English-movies", Retribution
-https://rouf.magnewscontent.org/_v10/10217f2f7f69f8822f91f57775d9d9d34560c140c3587fc5a5dfd9ef135c42bf3a4b6e989160ca095c5b580793f4ff7c079bde0c492a17da5c7d33c18a0b0864930811c54a4a96eec4e8cc23d9ce4169620f1aee95186923cd7f7f5eef4d844d9b0e5d089ebb7d70f05c000ada6be5960ac5789498e0a7665c4052fd83e9b3adca33756afcd3aa0339950fe349dc7071/playlist.m3u8
 
 #EXTINF: 1.0 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/thumb/msid-102760495,width-219,height-317,imgsize-8610/102760495.jpg" group-title="Malayalam-movies", DIGITAL VILLAGE
 http://109.236.81.45/vod/disk2/vod/T/59.mp4
