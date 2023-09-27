@@ -27,6 +27,21 @@
   ],
   "pl-more": [
     {
+      "name": "PHW 5000",
+      "url": "https://dhoom4u.me/stalker_portal",
+      "type": "por",
+      "mac": "00:1A:79:00:DA:B2",
+      "censored": false
+    },
+    {
+      "name": "Open IP-tv",
+      "url": "iptv.llc",
+      "type": "m3u",
+      "censored": false
+    }
+  ],
+  "pl-archive": [
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
