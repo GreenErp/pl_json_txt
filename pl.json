@@ -35,7 +35,7 @@
     },
     {
       "name": "Open IP-tv",
-      "url": "iptv.llc",
+      "url": "https://iptv.llc/",
       "type": "m3u",
       "censored": false
     }
