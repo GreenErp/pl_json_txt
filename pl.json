@@ -1,5 +1,12 @@
 {
-  "pl": [
+  "pl": [    
+    {
+      "name": "PHW test 5000",
+      "url": "https://dhoom4u.me/stalker_portal",
+      "type": "por",
+      "mac": "00:1A:79:00:DA:B2",
+      "censored": false
+    },
     {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
