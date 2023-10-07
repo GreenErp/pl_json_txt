@@ -1,6 +1,12 @@
 {
   "pl": [ 
     {
+      "name": "GV Test",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
+      "type": "m3u",
+      "censored": false
+    },
+    {
       "name": "PHW 5000",
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
@@ -13,12 +19,6 @@
       "type": "m3u",
       "censored": false
     },   
-    {
-      "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
-      "type": "m3u",
-      "censored": false
-    },
   ],
   "pl-more": [
     {
