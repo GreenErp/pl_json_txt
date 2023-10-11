@@ -38,21 +38,6 @@
       "url": "https://bit.ly/FTV-ESP",
       "type": "m3u",
       "censored": false
-    },
-    {
-      "name": "zaintv 500",
-      "url": "http://tv.zaintv.net",
-      "type": "m3u",
-      "username": "FAKcwezIFJ",
-      "password": "M7vC9bI1bw",
-      "censored": false
-    },
-    {
-      "name": "COOL 5000",
-      "url": "https://dhoom4u.me/stalker_portal",
-      "type": "por",
-      "mac": "00:1A:79:8C:09:80",
-      "censored": false
     }
   ],
   "pl-archive": [
@@ -60,6 +45,13 @@
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "COOL 5000",
+      "url": "https://dhoom4u.me/stalker_portal",
+      "type": "por",
+      "mac": "00:1A:79:8C:09:80",
       "censored": false
     }
   ]
