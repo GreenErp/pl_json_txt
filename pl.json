@@ -7,13 +7,6 @@
       "censored": false
     },
     {
-      "name": "ZAN-100",
-      "url": "http://tv.zaintv.net",
-      "type": "por",
-      "mac": "00:1A:79:B9:DF:D0",
-      "censored": false
-    },
-    {
       "name": "PHW 5000",
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
@@ -44,6 +37,13 @@
       "name": "Fluxus TV - Espanol",
       "url": "https://bit.ly/FTV-ESP",
       "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "ZAN-100",
+      "url": "http://tv.zaintv.net",
+      "type": "por",
+      "mac": "00:1A:79:B9:DF:D0",
       "censored": false
     }
   ],
