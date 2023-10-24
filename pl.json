@@ -43,7 +43,14 @@
       "name": "ZAN-100",
       "url": "http://tv.zaintv.net",
       "type": "por",
-      "mac": "00:1A:79:B9:DF:D0",
+      "mac": "00:1A:79:00:10:10",
+      "censored": false
+    },
+    {
+      "name": "4KDSTRM_120324",
+      "url": "http://4khdstreamsbox.com:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:00:00",
       "censored": false
     }
   ],
