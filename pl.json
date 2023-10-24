@@ -41,14 +41,14 @@
     },
     {
       "name": "ZAN-100",
-      "url": "http://line.iseepremium.com:80/c/",
+      "url": "http://tv.zaintv.net",
       "type": "por",
-      "mac": "00:1A:79:00:10:10",
+      "mac": "00:1A:79:B9:DF:D0",
       "censored": false
     },
     {
       "name": "PREM_260224",
-      "url": "http://4khdstreamsbox.com:80/c/",
+      "url": "http://line.iseepremium.com:80/c/",
       "type": "por",
       "mac": "00:1A:79:00:10:10",
       "censored": false
