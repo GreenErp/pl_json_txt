@@ -40,13 +40,6 @@
       "censored": false
     },
     {
-      "name": "ZAN-100",
-      "url": "http://tv.zaintv.net",
-      "type": "por",
-      "mac": "00:1A:79:B9:DF:D0",
-      "censored": false
-    },
-    {
       "name": "PREM_260224",
       "url": "http://line.iseepremium.com:80/c/",
       "type": "por",
@@ -66,6 +59,13 @@
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
+    {
+      "name": "ZAN-100",
+      "url": "http://tv.zaintv.net",
+      "type": "por",
+      "mac": "00:1A:79:B9:DF:D0",
       "censored": false
     }
   ]
