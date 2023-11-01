@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
+https://epg.pw/stream/813a38339f30ade3556efc6fee06797fb48c4928850ba3bbb3add665aa3000a2.ctv
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [SD]ASTRO CRICKET
+https://epg.pw/stream/c90561841b750c0a6f5bd4ea67acb78e94cf9326762f186477cce9023943466d.ctv
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
+https://epg.pw/stream/4bf4d4d8e01f62bc4a931275b07e7e34056c400575662cfd0f956a8f73122700.ctv
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
+https://epg.pw/stream/2bf0ff1dd23f2e25ebbf862a31ad214ebdf1f7aa77ed2c5e1a59ce301d672dbb.ctv
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
+https://epg.pw/stream/7f23e111dee8712485afb56b9386bc1283ee8ad558a33b77698ec4801bdd6130.ctv
+#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
+https://epg.pw/stream/054a2e7e5a8d1a24c4e5ba1b0cc7866b3bb6afadcb4eab040ec613ca29ebfc45.ctv
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-id="3118"  group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" beinsports 3 
+https://epg.pw/stream/a62c5fb69a38aa8a961090e7e0253362dfdbec8dccd481d1424471beb8e1c81d.ctv
+#EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="SPORTS",[HD]ESPN
+https://epg.pw/stream/e937c7de271db36957b4a68b8813dc4df4e66f2ac20062c128f2e0578c8f59ee.ctv
+#EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="SPORTS",[HD]ESPN 2
+https://epg.pw/stream/fd67f9cea46d85382c4f9023ea086a89df1fbe96ff6da0cff6d7a65ae4b6a5dd.ctv
+#EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2014/11/25/large/20141125170114178278_47.jpg" group-title="SPORTS",[BD]espn hd
+https://epg.pw/stream/bc620e05079c4c8b383223cd00544451bd4f7f56ae6fb6981ecf38b967376665.ctv
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/25/large/20220625152948057557_76.png" group-title="SPORTS",[HD]ESPN NEWS
+https://epg.pw/stream/e80067b3b6856648fba1eb665bb21da450007a84f16e46e70d3aa10942105d20.ctv
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="SPORTS",[HD]Fox Sports 2 
+https://epg.pw/stream/0b74a2affe0c8959920957238f1649a544ee4aee839c3fb3fa614b5c16ada56d.ctv
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="SPORTS",[HD]Fox Sports 2 
+https://epg.pw/stream/e73f7d848eba976f85070239c0616b079684afb08aa06255a54b12b8d6f4136a.ctv
+#EXTINF:-1 tvg-name="Sky Sport Austria" tvg-id="10652" tvg-country="Austria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904164015560294_43.jpg" group-title="SPORTS",sky sport austria
+https://epg.pw/stream/18c3c2f3e351ef5cbfc969d09916ccd983e223effbec1bad78d0fbb47aa36265.ctv
+#EXTINF:-1 tvg-name="WWE HD" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229173935030151_22.jpg" group-title="SPORTS",WWE
+https://epg.pw/stream/f66c08707aa6d3fb4af2bd57605c7b09a9b4dd181aeaf9fef5cdfe4ae4446df9.ctv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="ENGLISH NEWS", CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" tvg-name="CNN" group-title="ENGLISH NEWS",CNN
@@ -325,47 +356,3 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/7bc0ca1a66843ab3d90148e13bf5f9829ab6f8724d9c47bee0f1030a88f9897b.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/1694a81d0a6f582e8f09961f3ed9d2f229e72e176b4a881eee6c59b284b3f059.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/ec06b3385a46dd9067475e4369d3fc054301e14cc5542d598698214a5eb91b05.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/1c4843fa475f23a534e3a4f1160c36575f5ba49cd0f02714bad021cd679f48c6.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/9212443da5ab8c9a95b1449eca1ea2f17286351ae6ae9fc080062bdafcbd284a.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/98cd66074807e5fc57352893a5570d66224def3d87e4c511728f9a7ab8c0e0a0.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/94879eed6b1231b54fc4c0b1add6107407ad2f32a8a0de6138e9f99ed133b5a8.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/6d6b28b2485783fff651cc06a5ca32d11abf1561b8cdbdf3eea0704829bf0cd7.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/8b69c5961f3cc9594fbfb9862c2fb2398266591cbc7a3348d8581d87e9a35c92.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/813a38339f30ade3556efc6fee06797fb48c4928850ba3bbb3add665aa3000a2.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[SD]ASTRO CRICKET
-https://epg.pw/stream/c90561841b750c0a6f5bd4ea67acb78e94cf9326762f186477cce9023943466d.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/4bf4d4d8e01f62bc4a931275b07e7e34056c400575662cfd0f956a8f73122700.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/2bf0ff1dd23f2e25ebbf862a31ad214ebdf1f7aa77ed2c5e1a59ce301d672dbb.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/7f23e111dee8712485afb56b9386bc1283ee8ad558a33b77698ec4801bdd6130.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/054a2e7e5a8d1a24c4e5ba1b0cc7866b3bb6afadcb4eab040ec613ca29ebfc45.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTRO CRICKET
-https://epg.pw/stream/4c62879da7e2ad7341f38576da782562a1c04f3a497a97860363625ea6c8f2f8.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/7f3bcd19574209c7246dd2056f60939f7842277ccc2b65bf8f327a87fc893fc8.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be9c913e.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/a0fd641e0e251400433116899d31e0b034543c23bd544daa7e98196939552f4d.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" tvg-country="Cricket" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" group-title="Cricket",[HD]ASTROCRICKET
-https://epg.pw/stream/34e90e63014cbdd1ce2a66f2d46b39c0f7b7687a4df9ee9e265f1b3597804bd4.ctv
-
