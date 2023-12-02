@@ -19,6 +19,13 @@
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
       "censored": false
+    },
+    {
+      "name": "PRCOOL_270124",
+      "url": "http://cooltv.xyz:80/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:b1:57:21",
+      "censored": false
     }
   ],
   "pl-more": [
@@ -45,13 +52,6 @@
       "url": "https://bit.ly/FTV-ESP",
       "type": "m3u",
       "censored": false
-    },
-    {
-      "name": "PRCOOL_270124",
-      "url": "http://cooltv.xyz:80/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:b1:57:21",
-      "censored": false
     }
   ],
   "pl-archive": [
@@ -66,20 +66,6 @@
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
-      "censored": false
-    },
-    {
-      "name": "ZAN-100",
-      "url": "http://tv.zaintv.net",
-      "type": "por",
-      "mac": "00:1A:79:B9:DF:D0",
-      "censored": false
-    },
-    {
-      "name": "PREM_260224",
-      "url": "http://line.iseepremium.com:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:10:10",
       "censored": false
     }
   ]
