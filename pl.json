@@ -67,6 +67,13 @@
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
       "censored": false
+    },
+    {
+      "name": "PHW 020424",
+      "url": "https://dhoom4u.me/stalker_portal",
+      "type": "por",
+      "mac": "00:1A:79:49:F7:0B",
+      "censored": false
     }
   ]
 }
