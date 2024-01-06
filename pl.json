@@ -1,9 +1,10 @@
 {
   "pl": [
     {
-      "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
-      "type": "m3u",
+      "name": "DHM_040224",
+      "url": "http://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:49:f7:0b",
       "censored": false
     },
     {
@@ -18,6 +19,12 @@
       "url": "http://cooltv.xyz:80/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:b1:57:21",
+      "censored": false
+    },
+    {
+      "name": "GV Test",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
+      "type": "m3u",
       "censored": false
     }
   ],
