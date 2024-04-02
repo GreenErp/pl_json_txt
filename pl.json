@@ -1,13 +1,6 @@
 {
   "pl": [
     {
-      "name": "DHM_040224",
-      "url": "http://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:49:f7:0b",
-      "censored": false
-    },
-    {
       "name": "PRCOOL_042924",
       "url": "http://cooltv.xyz:80/stalker_portal/c/",
       "type": "por",
@@ -15,10 +8,10 @@
       "censored": false
     },
     {
-      "name": "PHW 040224",
-      "url": "https://dhoom4u.me/stalker_portal",
+      "name": "RAYAN_TEST",
+      "url": "http://rayantv.org/c/",
       "type": "por",
-      "mac": "00:1A:79:49:F7:0B",
+      "mac": "00:1A:79:17:19:4A",
       "censored": false
     },
     {
@@ -73,6 +66,20 @@
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
+    {
+      "name": "DHM_040224",
+      "url": "http://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:49:f7:0b",
+      "censored": false
+    },
+    {
+      "name": "PHW 040224",
+      "url": "https://dhoom4u.me/stalker_portal",
+      "type": "por",
+      "mac": "00:1A:79:49:F7:0B",
       "censored": false
     }
   ]
