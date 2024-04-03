@@ -8,7 +8,7 @@
       "censored": false
     },
     {
-      "name": "RAYAN_021825",
+      "name": "RAYTV_021825",
       "url": "http://rayantv.org/c/",
       "type": "por",
       "mac": "00:1A:79:17:19:4A",
@@ -22,6 +22,20 @@
     }
   ],
   "pl-more": [
+    {
+      "name": "ENT4U-121624",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:7A:E8:F0",
+      "censored": false
+    },
+    {
+      "name": "PHW5000-051524",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
     {
       "name": "Open IP-TV",
       "url": "https://iptv.llc/",
@@ -49,34 +63,20 @@
   ],
   "pl-archive": [
     {
+      "name": "RAYTV_021925",
+      "url": "http://rayantv.org:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:07:95",
+      "censored": false
+    },
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
       "censored": false
     },
     {
-      "name": "COOL 5000",
-      "url": "https://dhoom4u.me/stalker_portal",
-      "type": "por",
-      "mac": "00:1A:79:8C:09:80",
-      "censored": false
-    },
-    {
-      "name": "PHW 5000-100324",
-      "url": "https://dhoom4u.me/stalker_portal",
-      "type": "por",
-      "mac": "00:1A:79:8C:09:80",
-      "censored": false
-    },
-    {
-      "name": "DHM_040224",
-      "url": "http://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:49:f7:0b",
-      "censored": false
-    },
-    {
-      "name": "PHW 040224",
+      "name": "PHW5000-040224",
       "url": "https://dhoom4u.me/stalker_portal",
       "type": "por",
       "mac": "00:1A:79:49:F7:0B",
