@@ -13,7 +13,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155892&exten
 
 #EXTINF: -1 tvg-id="496" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11957-j9lu8sc8-v1/imageContent-11957-j9lu8sc8-m1.png" group-title="Music", Sun Music HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
--------Kalaignar Channels-----
+
 #EXTINF:-1  tvg-name="Kalaignar Tv" group-title="Tamil" tvg-chno="4" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_143300340622294627715724.png", Kalaignar Tv
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
@@ -37,16 +37,11 @@ http://xtv.ooo:8080/359052742/470428329/244622
 #EXTINF: -1 tvg-id="ts906" tvg-chno="9" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="Tamil", Vijay Takkar
 https://ardinesh-pc-remote.puspas.com.np/live-tv/wtc05/live/wtc05-universal/star-vijay-music/index.ts
 
-----------Zee Channels----------
-
 #EXTINF: -1 tvg-id="521" tvg-chno="10" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tamil", Zee Tamil HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
 
 #EXTINF:-1 tvg-id="ts1182" tvg-chno="14" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png" group-title="Tamil",Zee Thirai HD
 https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=1027
-
-
------Raj Channels-----
 
 #EXTINF: -1 tvg-id="425" tvg-chno="11" tvg-logo="https://tatalogo.pages.dev/425.png" group-title="Music", Raj Musix
 http://xtv.ooo:8080/359052742/470428329/244528
@@ -60,7 +55,6 @@ http://xtv.ooo:8080/359052742/470428329/244583
 #EXTINF:-1  tvg-name="Raj News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0836505091207137108765881.png",Raj News
 http://mag.trexlive.me:80/Michael88/Michael88/155905
 
--------Jaya Channels------
 
 #EXTINF: -1 tvg-id="99" tvg-chno="13" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Tamil", Jaya TV HD
 http://xtv.ooo:8080/359052742/470428329/244572
@@ -72,7 +66,7 @@ http://xtv.ooo:8080/359052742/470428329/244574
 #EXTINF:-1  tvg-name="Jaya Plus" tvg-chno="14" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1020388256832282687895897.png",Jaya Plus
 https://mavenarts.in/jio/app/live/418/null/index.m3u8
 
------Mega Channels------
+
 #EXTINF:-1  tvg-name="Mega Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_0213178819276554148159199.png",Mega Tv
 http://udigitalott.ridsys.in/riptv/live/stream22/manifest.m3u8
 
@@ -137,16 +131,11 @@ http://xtv.ooo:8080/359052742/470428329/244522
 #EXTINF: -1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="Tamil", Makkal TV
 http://xtv.ooo:8080/359052742/470428329/244577
 
-
------------Religious--------
-
 #EXTINF:-1  tvg-name="Swasthik Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2329476994390643797780769.png", Swasthik Tv
 https://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Jothi Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png",Jothi Tv
 http://notvstream.in/jothitv/jothitv.m3u8
-
------Other Countries-----
 
 #EXTINF:-1  tvg-name="IBC Canada" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0840532653502816512774106.png",IBC Canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
@@ -196,7 +185,6 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 #EXTINF:-1  tvg-name="7S Music" group-title="Music" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17097527414494923868850942693233.png",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
------------News----------
 #EXTINF:-1  tvg-name="Kalaignar News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_2340126714644212700620119.png",Kalaignar News
 https://mavenarts.in/jio/app/live/1210/null/index.m3u8
 
@@ -238,7 +226,6 @@ https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62
 #EXTINF:-1  tvg-name="Polimer News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0224324877672948452887376.png",Polimer News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 
------------KIDS----------
 #EXTINF:-1  tvg-name="Sony YAY" group-title="Kids" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_2148202737662327064082726.png",Sony YAY
 http://mag.trexlive.me/Michael88/Michael88/155900
 
@@ -266,7 +253,6 @@ http://103.131.214.129:9985/stream/channelid/1666515958?ticket=ADB7529A58A8C25B5
 #EXTINF:-1  tvg-name="Discovery Channel" group-title="Kids" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0056328499399123707643378.png",Discovery Channel
 https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
 
-------- Srilanka ---------
 #EXTINF:-1  tvg-name="Monara Tv" group-title="Srilanka" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0926231197456357836223693.png",Monara Tv
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
@@ -335,7 +321,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-name="Discovery" group-title="Srilanka" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0709237172545260853726923.png",Discovery 
 https://raw.githubusercontent.com/shashika77/Srilanka-IPTV-Chanels/main/TV-FILES/Discovery-HD.m3u8
--------Sports-----------
+
 #EXTINF:-1  tvg-name="Willow HD Tv" group-title="Sports" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_1016442615020426081814653.png",Willow HD Tv
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=6653c05e42fc4fac8f49d7cbf99498fe&key=3b88f2cff3affef20b265c840bafc0cc
 
@@ -424,14 +410,14 @@ https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1  tvg-name="TNT Sport 4" group-title="Sports" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_0618434858097994525168287.png",TNT Sports 4
 https://catowrap.live/mrgamingbtsport4.m3u8
 
------- Video Songs -------
+
 #EXTINF:-1  tvg-name="Kanmani Anboda Kadhalan" group-title="Video Songs" tvg-logo="https://tvicn.files.wordpress.com/2024/04/20240405_2354394095379147039809038.jpg",Kanmani Anboda Kadhalan
 https://app.box.com/s/eugvbhpnb1o17dryr0xr2cvu5onlp0sl
 
 #EXTINF:-1  tvg-name="Puja Vaa" group-title="Video Songs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6H64r9QIz-QIZL2sePQgxFWvPGwGCBTr8fzvtUOF3JjL1XssI3MuzGX0&s=10",Puja Vaa Puja Vaa
 https://drive.google.com/uc?export=download&id=1jHWXR-4R0yLcLLTRUFhwAaGennPahlqs
 
--------Series --------
+
 #EXTINF:-1  tvg-name="Beetal Ep01" group-title="Beetal" tvg-logo="https://tvicn.files.wordpress.com/2024/04/img_20240405_004723_7913882024510117603658.jpg",Betaal Ep01
 http://box.tamilboxoffice.in/tamilbox/Series/Betaal%20(2020)%20S01/Betaal%20(2020)%20S01%20E01%20Tamil%20Box%20Office%20App.mkv
 
@@ -505,7 +491,7 @@ http://protech.tamilboxoffice.online/Series/Tamil/The%20Village%20(2023)%20S01/T
 #EXTINF:-1  tvg-name="Village EP01" group-title="Village" tvg-logo="https://tvicn.files.wordpress.com/2024/04/img_20240403_230009_9052152157571747698284.jpg",Village EP01 
 http://protech.tamilboxoffice.online/Series/Tamil/The%20Village%20(2023)%20S01/The%20Village%20(2023)%20S01%20EP01%20Tamil%20Box%20Office%20App.mp4
 
------Dubbed Movies--------
+
 #EXTINF:-1  tvg-name="The Family Star 2024" group-title="Tamil Movies" tvg-logo="https://tvicn.files.wordpress.com/2024/04/img_20240405_194118_3555452864163221835134.jpg",The Family Star 2024
 http://protech.tamilboxoffice.online/Torrent/The%20Family%20Star%20(2024)%20Tamil%20Box%20Office%20App.mkv
 
@@ -538,8 +524,6 @@ http://protech.tamilboxoffice.online/Tamil%20Dubbed%20Movies/2023/Oppenheimer%20
 #EXTINF:-1  tvg-name="Panda 4 2024" group-title="Dubbed Movies" tvg-logo="https://tvicn.files.wordpress.com/2024/04/images-92335791607758303855.jpeg",Panda 4 2024 (Tamil Box Office)
 http://protech.tamilboxoffice.online/Torrent/Kung%20Fu%20Panda%204%20(2024)%20Tamil%20Box%20Office%20App.mkv
 
------- Movies -------
-
 #EXTINF:-1  tvg-name="Kalvan 2024" group-title="Tamil Movies" tvg-logo="https://tvicn.files.wordpress.com/2024/04/img_20240404_191311_2834209750609604241130.jpg",Kalvan 2024
 http://protech.tamilboxoffice.online/Torrent/Kalvan%20(2024)%20Tamil%20Box%20Office%20App.mp4
 
@@ -567,7 +551,7 @@ http://protech.tamilboxoffice.online/Tamil%20Movies/2024/Birthmark%20(2024)%20Ta
 #EXTINF:-1  tvg-name="Lover 2024" group-title="Tamil Movies" tvg-logo="https://tvicn.files.wordpress.com/2024/04/lover4352677069049044971.jpeg",Lover 2024
 http://protech.tamilboxoffice.online/Tamil%20Movies/2024/Lover%20(2024)%20Tamil%20Box%20Office%20App.mp4
 
---------- Local Channels ---------
+
 #EXTINF:-1  tvg-name="Sangamam Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_2015377171398021021716184.png",Sangamam Tv
 http://livematrix.in/sangamamtv/sangamamtv.m3u8
 
@@ -700,8 +684,6 @@ https://live1.sscloud7.com/hls/vedhatv.m3u8
 #EXTINF:-1  tvg-name="Durai TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240227_2151186415467617602432815.png",Durai Tv
 http://ipcloud.live:8080/duraitv/live.m3u8
 
-
-
 #EXTINF:-1  tvg-name="7green 4k Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1133197274974923721767940.png",7green 4K Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/sevengreen123_low/index.m3u8
 
@@ -716,7 +698,6 @@ https://ipcloud.live/veeratv/veeratvhd.m3u8
 
 #EXTINF:-1  tvg-name="Vinayaga Music Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1010229062871283623357358.png",Vinayaga Music Tv
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-
 
 #EXTINF:-1  tvg-name="Vinayaga HD Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1010229062871283623357358.png",Vinayaga HD Tv
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
@@ -789,20 +770,17 @@ https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
 #EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_2303086424729647785480026.png" group-title="Local Channels",Abinaya Trendz
 http://singamcloud.in/purpletv/purpletv/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_2239321682425511569500215.png" group-title="Local Channels",Ram TV
 http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Kavin Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png",Kavin Tv
 http://198.144.149.206:8080/NOTV/KAVINTV/tracks-v1a1/mono.m3u8?token=GTR
 
-
 #EXTINF:-1  tvg-name="Chennaii Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1905264204580873033855986.png",Chennaii Tv
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
 
 #EXTINF:-1  tvg-name="Moon Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1830104366483938587449533.png",Moon Tv
 http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
-
 
 #EXTINF:-1  tvg-name="K Channel" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2046328798385470697522137.png",K channel
 http://indiamatrix.in/kchannel/kchannel.m3u8
@@ -882,18 +860,14 @@ http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 #EXTINF:-1  tvg-name="Pan Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0908284014744829528744941.png",Pan Tv
 http://198.144.149.206:8080/NOTV/PANTV/tracks-v1a1/mono.m3u8?token=GTR
 
-
 #EXTINF:-1  tvg-name="U Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png",U Tv
 http://notvstream.in/utv/utv.m3u8
 
 #EXTINF:-1  tvg-name="Sai Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png",Sai Tv
 http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
 
-
 #EXTINF:-1  tvg-name="V Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0854326596271193247655416.png",V Tv
 http://198.144.149.206:8080/NOTV/VTV/tracks-v1a1/mono.m3u8?token=GTR
-
-
 
 #EXTINF:-1  tvg-name="R Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_2158174808496927671442016.png",R Tv
 https://galaxyott.live/hls/rtv.m3u8
@@ -949,18 +923,14 @@ http://ipcloud.live:8080/nilatvnellai/nilahd.m3u8
 #EXTINF:-1  tvg-name="Vanavil Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0856271246595482699747248.png",Vanavil 
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-
 #EXTINF:-1  tvg-name="MN Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0847495427909620575984784.png",MN Tv
 http://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:-1  tvg-name="MN Music" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png",MN Music
 http://mntv.livebox.co.in/musichls/live.m3u8
 
-
-
 #EXTINF:-1  tvg-name="JHP Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0428126497187039134008538.png",JHP Tv
 http://jhptv.7starcloud.com:1935/live/jhptv/chunklist_w410312323.m3u8
-
 
 #EXTINF:-1  tvg-name="KCTN Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png",KCTN Tv
 http://ttv.7starcloud.com:1935/kctn/tv/chunklist_w520332709.m3u8
@@ -1228,7 +1198,6 @@ http://indiamatrix.in/nellaitimestv/nellaitimestv.m3u8
 #EXTINF:-1  tvg-name="Annai Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_1340345651388991683801665.png",Annai Tv
 http://198.144.149.206:8080/NOTV/ANNAITV/index.m3u8?token=GTR
 
-
 #EXTINF:-1  tvg-name="Delta TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0827591492294489087739108.png",Delta Tv
 https://ipcloud.live/deltatv/deltahd.m3u8
 
@@ -1367,10 +1336,8 @@ http://sacheintv.phoenixcreations.online:1935/sacheintv/sacheintv/playlist.m3u8
 #EXTINF:-1  tvg-name="JR Malar Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2103486813971942041672387.png",JR Malar Tv
 https://stream.sscloud7.in/live/malartv/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1  tvg-name="Malar Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2104134158722555953030217.png",Malar Tv
 https://sscloud7.com/hls/malartv.m3u8
-
 
 #EXTINF:-1  tvg-name="Subin Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2105263032496735273875259.png",Subin Tv
 https://stream.sscloud7.com/hls/subintv.m3u8
@@ -1514,6 +1481,7 @@ http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="S Channel" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0152354193328673257607086.png",S Channel
 http://nijamtv.indiamatrix.in/nijamtv/sdigital.m3u8
+
 #EXTINF: -1 tvg-id="199" tvg-logo="https://tatalogo.pages.dev/199.png" group-title="Music", Jaya Max
 http://xtv.ooo:8080/359052742/470428329/244573
 
