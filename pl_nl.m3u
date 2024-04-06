@@ -354,3 +354,92 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1  tvg-name="Indywood Tv" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_1050178147936201388108919.png",Indywood Tv
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+
+#EXTINF:-1  tvg-name="Beano TV" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1317082826699434251250928.png",Beano TV
+https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Rakuten Tv" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1319182330260922498289866.png",Rakuten Comedy Movies Tv
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="&Flix HD" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_0758346294763220874769708.png",&Flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+
+#EXTINF:-1  tvg-name="HBO Family" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1639437939913110642555175.png",HBO Family
+http://50.7.234.10:8278/Hbofamily/playlist.m3u8
+
+#EXTINF:-1  tvg-name="HBO HD" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1638483187877364310484690.png",HBO HD
+http://50.7.234.10:8278/Hbo/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Paramount Network" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1641245110484474518882183.png",Paramount Network
+http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Cinemax" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1637596291156737545230534.png",Cinemax
+http://50.7.234.10:8278/Cinemax/playlist.m3u8
+
+#EXTINF:-1  tvg-name="AXN HD" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1637126401879288008643219.png",AXN HD
+http://50.7.234.10:8278/Axn/playlist.m3u8
+
+#EXTINF:-1  tvg-name="B4u Movies" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_1155585007615362806035538.png",B4u Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_1838307340763064143580628.png",CINEMAX Portugal
+http://64.31.40.14:14031/
+
+#EXTINF:-1  tvg-name="Great American Country" group-title="English" tvg-logo="",Great American Country
+http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52060
+
+#EXTINF:-1  tvg-name="Brat Tv" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_183452123995913782211810.png",Brat Tv
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Fuse" group-title="English" tvg-logo="",Fuse
+http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52052
+
+
+#EXTINF:-1  tvg-name="" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1802101283709054394120032.png",Fox Movies 
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2308152674568785892609255.png",Dubai One 
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_0735451970756588300251968.png",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="English"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2309103112599894951213799.png",Gusto TV
+https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="English"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2310037126828286678581533.png",Love Stories TV
+https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 group-title="English"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_071906364483386611504026.png",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="English"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_0720488245487167981244310.png",ION Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_0718418754384954026699702.png",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_0737257974929745981738439.png",Movies Now HD
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_0740555346505331707104914.png",Action Hollywood Movie 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-name="History HD" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_2051269054318812673448260.png",History HD
+http://50.7.234.10:8278/History/playlist.m3u8
+#EXTINF:-1  tvg-name="Animal Planet HD" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17113799815102347442863381867559.png",Animal Planet HD
+http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
+#EXTINF:-1  tvg-name="Love Nature" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17113799808388330462912455907039.png",Love Nature
+http://50.7.234.10:8278/Natgeowild/playlist.m3u8
+#EXTINF:-1  tvg-name="WWE Network" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17113799805333598057781334580438.png",WWE Network
+http://50.7.234.10:8278/Wwe/playlist.m3u8
+#EXTINF:-1  tvg-name="My Time Movie Network" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_094030883597041030750429.png",My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0056328499399123707643378.png",Discovery Channel
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1  tvg-name="Animal Planet" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17113799815102347442863381867559.png",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1  tvg-name="Travel Xp" group-title="English" tvg-logo="",Travel Xp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="TLC" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1636404540559511964695705.png",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_1825297081614707726362306.png",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 group-title="English"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_1919498910855694360126289.png",Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
