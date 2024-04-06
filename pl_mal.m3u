@@ -1,14 +1,9 @@
- 
 #EXTM3U
----------- Malayalam Channels ------------
 
 #EXTINF:-1  tvg-name="Kannur Vision" group-title="Malayalam" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_0001066399257992313401397.png",Kannur Vision
 http://knr.logichost.in:1935/kannurvision/live/chunklist_w66499957.m3u8 
-
-
 #EXTINF:-1  tvg-name="MCV Channel" group-title="Malayalam" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2335117797062772357392811.png",MCV Channel
 http://cloud.logichost.in:1935/live/mcvlive/chunklist_w141497558.m3u8 
-
 #EXTINF:-1  tvg-name="Citi News" group-title="Malayalam" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2325294121001855085015262.png",Citi News
 http://cloud.logichost.in:1935/live/citi/chunklist_w2041544842.m3u8
 
@@ -123,7 +118,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 
 
-------- Local Channel --------
 
 #EXTINF:-1 group-title="Malayalam" tvg-name="NV Tv (Asianet)" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0946386441479403462051080.png",NV Tv (Asianet)
 http://ipcloud.live:8080/nvtv/livetvstream.m3u8
@@ -133,8 +127,6 @@ http://ipcloud.live:8080/nvtv/livetvstream.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-name="Nattuvartha Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_1045057661585982202788649.png",Nattuvartha Tv
 http://ipcloud.live:8080/nattuvartha/nvtvstream.m3u8
 
-
--------Sports-----------
 
 #EXTINF:-1  tvg-name="Star Sports Malayalam" group-title="Sports" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_002539194910157146269984.png",Star Sports Malayalam
 http://prod-sports-south-cf.jiocinema.com/hls/live/2109706/hd_akamai_androidmob_avc_mal_ipl_s1_m1220324/master.m3u8
