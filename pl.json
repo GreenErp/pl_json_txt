@@ -15,6 +15,12 @@
       "censored": false
     },
     {
+      "name": "Malayalam",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_mal.m3u",
+      "type": "m3u",
+      "censored": false
+    },
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
