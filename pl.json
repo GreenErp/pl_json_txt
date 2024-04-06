@@ -15,18 +15,6 @@
       "censored": false
     },
     {
-      "name": "Tamil",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_tamil.m3u",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Malayalam",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_malayalam.m3u",
-      "type": "m3u",
-      "censored": false
-    },
-    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
@@ -46,6 +34,24 @@
       "url": "https://dhoom4u.me/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
+    {
+      "name": "Tamil",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_tamil.m3u",
+      "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "Malayalam",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_malayalam.m3u",
+      "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "Super-iptv",
+      "url": "http://c.superiptv.pk:8880/get.php?username=111222&password=222333&type=m3u_plus&output=m3u8",
+      "type": "m3u",
       "censored": false
     },
     {
