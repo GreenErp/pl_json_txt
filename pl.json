@@ -1,17 +1,17 @@
 {
   "pl": [
     {
+      "name": "ENT4U-121624",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:7A:E8:F0",
+      "censored": false
+    },
+    {
       "name": "PRCOOL_042924",
       "url": "http://cooltv.xyz:80/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:b1:57:21",
-      "censored": false
-    },
-    {
-      "name": "RAYTV_021825",
-      "url": "http://rayantv.org/c/",
-      "type": "por",
-      "mac": "00:1A:79:17:19:4A",
       "censored": false
     },
     {
@@ -22,13 +22,6 @@
     }
   ],
   "pl-more": [
-    {
-      "name": "ENT4U-121624",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:7A:E8:F0",
-      "censored": false
-    },
     {
       "name": "PHW5000-051524",
       "url": "https://dhoom4u.me/stalker_portal/c/",
@@ -80,6 +73,13 @@
     }
   ],
   "pl-archive": [
+    {
+      "name": "RAYTV_021825",
+      "url": "http://rayantv.org/c/",
+      "type": "por",
+      "mac": "00:1A:79:17:19:4A",
+      "censored": false
+    },
     {
       "name": "RAYTV_021925",
       "url": "http://rayantv.org:80/c/",
