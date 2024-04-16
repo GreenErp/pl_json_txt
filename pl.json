@@ -1,17 +1,17 @@
 {
   "pl": [
     {
-      "name": "RAYTV_071124",
-      "url": "http://rayantv.org/c/",
+      "name": "ASIA-2_070824",
+      "url": "http://tr.redatvgold.com:80/c/",
       "type": "por",
-      "mac": "00:1A:79:A9:19:06",
+      "mac": "00:1A:79:00:00:78",
       "censored": false
     },
     {
-      "name": "RAYTV_021925",
-      "url": "http://rayantv.org:80/c/",
+      "name": "ASIA_102524",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
-      "mac": "00:1A:79:00:07:95",
+      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
@@ -95,30 +95,9 @@
   ],
   "pl-archive": [
     {
-      "name": "RAYTV_021825",
-      "url": "http://rayantv.org/c/",
-      "type": "por",
-      "mac": "00:1A:79:A9:19:06",
-      "censored": false
-    },
-    {
-      "name": "RAYTV_021925",
-      "url": "http://rayantv.org:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:07:95",
-      "censored": false
-    },
-    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "PHW5000-040224",
-      "url": "https://dhoom4u.me/stalker_portal",
-      "type": "por",
-      "mac": "00:1A:79:49:F7:0B",
       "censored": false
     }
   ]
