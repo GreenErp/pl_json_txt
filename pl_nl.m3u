@@ -1,17 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
-https://epg.pw/stream/813a38339f30ade3556efc6fee06797fb48c4928850ba3bbb3add665aa3000a2.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [SD]ASTRO CRICKET
-https://epg.pw/stream/c90561841b750c0a6f5bd4ea67acb78e94cf9326762f186477cce9023943466d.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
-https://epg.pw/stream/4bf4d4d8e01f62bc4a931275b07e7e34056c400575662cfd0f956a8f73122700.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
-https://epg.pw/stream/2bf0ff1dd23f2e25ebbf862a31ad214ebdf1f7aa77ed2c5e1a59ce301d672dbb.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
-https://epg.pw/stream/7f23e111dee8712485afb56b9386bc1283ee8ad558a33b77698ec4801bdd6130.ctv
-#EXTINF:-1 tvg-name="ASTRO Cricket" tvg-id="2442" group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311012637863897_37.jpg" [HD]ASTRO CRICKET
-https://epg.pw/stream/054a2e7e5a8d1a24c4e5ba1b0cc7866b3bb6afadcb4eab040ec613ca29ebfc45.ctv
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-id="3118"  group-title="SPORTS" tvg-language="English"  DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3" tvg-id="3118"  group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" beinsports 3 
 https://epg.pw/stream/a62c5fb69a38aa8a961090e7e0253362dfdbec8dccd481d1424471beb8e1c81d.ctv
 #EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="SPORTS",[HD]ESPN
@@ -45,6 +35,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="ENGLISH NEWS", AL-JASEERA
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="ENGLISH NEWS", AL-JASEERA 2
+https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wion-news-white.png" group-title="ENGLISH NEWS", WION
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ENGLISH NEWS",Wion TV
@@ -205,6 +197,8 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="MALAYALAM",Kappa TV 
 https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="MALAYALAM",Kappa TV 2
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="MALAYALAM",Malabar News
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGVEvY.png" tvg-name="Kerala Vision News" group-title="MALAYALAM",Kerala Vision News
