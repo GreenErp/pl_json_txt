@@ -29,6 +29,13 @@
       "censored": false
     },
     {
+      "name": "EURO_101224",
+      "url": "http://foxx-tv.com:8080/c/",
+      "type": "por",
+      "mac": "00:1A:79:CB:78:86",
+      "censored": false
+    },
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
