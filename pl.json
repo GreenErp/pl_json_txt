@@ -1,20 +1,6 @@
 {
   "pl": [
     {
-      "name": "ASIA-2_070824",
-      "url": "http://tr.redatvgold.com:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:00:78",
-      "censored": false
-    },
-    {
-      "name": "ASIA_102524",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:8B:94:20",
-      "censored": false
-    },
-    {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
@@ -26,6 +12,20 @@
       "url": "http://cooltv.xyz:80/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:b1:57:21",
+      "censored": false
+    },
+    {
+      "name": "ASIA-2_070824",
+      "url": "http://tr.redatvgold.com:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:00:78",
+      "censored": false
+    },
+    {
+      "name": "ASIA_102524",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
