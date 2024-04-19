@@ -8,13 +8,6 @@
       "censored": false
     },
     {
-      "name": "PRCOOL_042924",
-      "url": "http://cooltv.xyz:80/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:b1:57:21",
-      "censored": false
-    },
-    {
       "name": "ASIA-2_070824",
       "url": "http://tr.redatvgold.com:80/c/",
       "type": "por",
@@ -29,20 +22,35 @@
       "censored": false
     },
     {
+      "name": "PRCOOL_042924",
+      "url": "http://cooltv.xyz:80/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:b1:57:21",
+      "censored": false
+    }
+  ],
+  "pl-more": [
+    {
+      "name": "ENT4U-180924",
+      "url": "https://51.159.70.234/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:7B:AC:21",
+      "censored": false
+    },
+    {
+      "name": "ENT4U-100324",
+      "url": "https://51.159.70.234/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:B4:F2:58",
+      "censored": false
+    },
+    {
       "name": "EURO_101224",
       "url": "http://foxx-tv.com:8080/c/",
       "type": "por",
       "mac": "00:1A:79:CB:78:86",
       "censored": false
     },
-    {
-      "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
-      "type": "m3u",
-      "censored": false
-    }
-  ],
-  "pl-more": [
     {
       "name": "PHW5000-051524",
       "url": "https://dhoom4u.me/stalker_portal/c/",
@@ -51,52 +59,8 @@
       "censored": false
     },
     {
-      "name": "Tamil",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_tamil.m3u",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Malayalam",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_malayalam.m3u",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Super-iptv",
-      "url": "http://c.superiptv.pk:8880/get.php?username=111222&password=222333&type=m3u_plus&output=m3u8",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Open IP-TV",
-      "url": "https://iptv.llc/",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Fluxus TV - English",
-      "url": "https://bit.ly/FTV-ENG",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Fluxus TV - Arabic",
-      "url": "https://bit.ly/FTV-ARA",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Fluxus TV - Espanol",
-      "url": "https://bit.ly/FTV-ESP",
-      "type": "m3u",
-      "censored": false
-    }
-  ],
-  "pl-archive": [
-    {
       "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
     }
