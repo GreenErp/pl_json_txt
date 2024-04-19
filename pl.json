@@ -74,11 +74,18 @@
       "censored": false
     },
     {
-      "name": "ljuc_iptv",
+      "name": "ljuc_iptv-092024",
       "url": "http://ljuc.iptv.free.ofio.xyz",
       "username": "LPEZ230920AQ",
       "password": "62394ADQTG",
       "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "RAYAN-070924",
+      "url": "http://rayantv.org/c/",
+      "type": "por",
+      "mac": "00:1A:79:A9:19:06",
       "censored": false
     },
     {
