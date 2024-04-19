@@ -45,6 +45,13 @@
       "censored": false
     },
     {
+      "name": "ENT4U-230524",
+      "url": "https://51.159.70.234/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:6A:11:27",
+      "censored": false
+    },
+    {
       "name": "EURO_101224",
       "url": "http://foxx-tv.com:8080/c/",
       "type": "por",
@@ -56,6 +63,14 @@
       "url": "https://dhoom4u.me/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
+    {
+      "name": "Flextv-050724",
+      "url": "http://filex.tv:8080",
+      "username": "Sf1",
+      "password": "123456",
+      "type": "m3u",
       "censored": false
     },
     {
