@@ -59,6 +59,14 @@
       "censored": false
     },
     {
+      "name": "ljuc_iptv",
+      "url": "http://ljuc.iptv.free.ofio.xyz",
+      "username": "LPEZ230920AQ",
+      "password": "62394ADQTG",
+      "type": "m3u",
+      "censored": false
+    },
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
