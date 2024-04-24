@@ -81,14 +81,6 @@
       "censored": false
     },
     {
-      "name": "Flextv-050724",
-      "url": "http://filex.tv:8080",
-      "username": "Sf1",
-      "password": "123456",
-      "type": "m3u",
-      "censored": false
-    },
-    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
