@@ -41,6 +41,13 @@
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_tamil.m3u",
       "type": "m3u",
       "censored": false
+    },
+    {
+      "name": "RAYAN-070924",
+      "url": "http://rayantv.org/c/",
+      "type": "por",
+      "mac": "00:1A:79:A9:19:06",
+      "censored": false
     }
   ]
 }
