@@ -15,10 +15,10 @@
       "censored": false
     },
     {
-      "name": "ASIA-GOLD_070824",
-      "url": "http://tr.redatvgold.com:80/c/",
+      "name": "Ent4u_052324",
+      "url": "http://51.159.70.234/stalker_portal/c/",
       "type": "por",
-      "mac": "00:1A:79:74:B5:4F",
+      "mac": "00:1A:79:6A:11:27",
       "censored": false
     },
     {
@@ -79,23 +79,7 @@
       "mac": "00:1A:79:8C:09:80",
       "censored": false
     },
-    {
-      "name": "ljuc_iptv-092024",
-      "url": "http://ljuc.iptv.free.ofio.xyz",
-      "username": "LPEZ230920AQ",
-      "password": "62394ADQTG",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "Flextv-050724",
-      "url": "http://filex.tv:8080",
-      "username": "Sf1",
-      "password": "123456",
-      "type": "m3u",
-      "censored": false
-    },
-    {
+  {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
