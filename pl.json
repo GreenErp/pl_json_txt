@@ -1,13 +1,6 @@
 {
   "pl": [
     {
-      "name": "ASIA-GOLD_220125",
-      "url": "http://tr.redatvgold.com:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:00:11",
-      "censored": false
-    },
-    {
       "name": "PRCOOL_042924",
       "url": "http://cooltv.xyz:80/stalker_portal/c/",
       "type": "por",
@@ -83,7 +76,7 @@
       "name": "CLDTEST-071024",
       "url": "http://tv.cloudcdn.me:80/c/",
       "type": "por",
-      "mac": "0:1A:79:0E:F7:2B",
+      "mac": "00:1A:79:0E:F7:2B",
       "censored": false
     },
     {
