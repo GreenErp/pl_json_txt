@@ -79,7 +79,14 @@
       "mac": "00:1A:79:8C:09:80",
       "censored": false
     },
-  {
+    {
+      "name": "CLDTEST-071024",
+      "url": "http://tv.cloudcdn.me:80/c/",
+      "type": "por",
+      "mac": "0:1A:79:0E:F7:2B",
+      "censored": false
+    },
+    {
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
