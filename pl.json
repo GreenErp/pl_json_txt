@@ -8,6 +8,13 @@
       "censored": false
     },
     {
+      "name": "REDATV_011525",
+      "url": "http://tr.redatvgold.com:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:D5:B7",
+      "censored": false
+    },
+    {
       "name": "ENT4U_102524",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
@@ -19,13 +26,6 @@
       "url": "http://51.159.70.234/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:6A:11:27",
-      "censored": false
-    },
-    {
-      "name": "FRIT_092624",
-      "url": "http://fx-lv.com:8080/c/",
-      "type": "por",
-      "mac": "00:1A:79:4E:04:30",
       "censored": false
     }
   ],
@@ -45,7 +45,7 @@
       "censored": false
     },
     {
-      "name": "ENT4U-180924",
+      "name": "ENT4U-091824",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:7B:AC:21",
@@ -59,7 +59,7 @@
       "censored": false
     },
     {
-      "name": "ENT4U-230524",
+      "name": "ENT4U-052324",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:6A:11:27",
