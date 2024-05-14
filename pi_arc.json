@@ -56,6 +56,13 @@
       "type": "por",
       "mac": "00:1A:79:00:00:11",
       "censored": false
+    },
+    {
+      "name": "PHW5000-051524",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8C:09:80",
+      "censored": false
     }
   ]
 }
