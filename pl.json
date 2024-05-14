@@ -1,10 +1,10 @@
 {
   "pl": [
     {
-      "name": "PHW5000-051524",
+      "name": "PHW5000-121724",
       "url": "https://dhoom4u.me/stalker_portal/c/",
       "type": "por",
-      "mac": "00:1A:79:8C:09:80",
+      "mac": "00:1A:79:59:71:6F",
       "censored": false
     },
     {
@@ -30,6 +30,13 @@
     }
   ],
   "pl-more": [
+    {
+      "name": "PHW5000-051524",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8C:09:80",
+      "censored": false
+    },
     {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
