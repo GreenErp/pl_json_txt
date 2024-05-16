@@ -7,13 +7,6 @@
       "mac": "00:1A:79:59:71:6F",
       "censored": false
     },
-     {
-      "name": "REDATV_011525",
-      "url": "http://tr.redatvgold.com:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:D5:B7",
-      "censored": false
-    },
     {
       "name": "ENT4U_102524",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
@@ -31,8 +24,15 @@
       "serial": "311E049B4DC59",
       "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
       "censored": false
+},
+ {
+      "name": "REDATV_011525",
+      "url": "http://tr.redatvgold.com:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:D5:B7",
+      "censored": false
     },
-    {
+{
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
