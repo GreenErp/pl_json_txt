@@ -7,13 +7,11 @@
       "mac": "00:1A:79:59:71:6F",
       "censored": false
     },
-    {
-      "name": "EROSTV_092824",
-      "url": "http://line.iptveros.com:8000/c/",
+     {
+      "name": "REDATV_011525",
+      "url": "http://tr.redatvgold.com:80/c/",
       "type": "por",
-      "mac": "00:1A:79:00:00:A1",
-      "serial": "311E049B4DC59",
-      "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
+      "mac": "00:1A:79:00:D5:B7",
       "censored": false
     },
     {
@@ -25,11 +23,13 @@
     }
   ],
   "pl-more": [
-    {
-      "name": "REDATV_011525",
-      "url": "http://tr.redatvgold.com:80/c/",
+     {
+      "name": "EROSTV_092824",
+      "url": "http://line.iptveros.com:8000/c/",
       "type": "por",
-      "mac": "00:1A:79:00:D5:B7",
+      "mac": "00:1A:79:00:00:A1",
+      "serial": "311E049B4DC59",
+      "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
       "censored": false
     },
     {
