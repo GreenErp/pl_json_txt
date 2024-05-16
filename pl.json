@@ -8,10 +8,10 @@
       "censored": false
     },
     {
-      "name": "REDATV_011525",
-      "url": "http://tr.redatvgold.com:80/c/",
+      "name": "EROSTV_052724",
+      "url": "http://line.iptveros.com:8000/c/",
       "type": "por",
-      "mac": "00:1A:79:00:D5:B7",
+      "mac": "00:1A:79:00:0D:6F",
       "censored": false
     },
     {
@@ -23,6 +23,13 @@
     }
   ],
   "pl-more": [
+    {
+      "name": "REDATV_011525",
+      "url": "http://tr.redatvgold.com:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:D5:B7",
+      "censored": false
+    },
     {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
