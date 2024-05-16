@@ -11,7 +11,9 @@
       "name": "EROSTV_052724",
       "url": "http://line.iptveros.com:8000/c/",
       "type": "por",
-      "mac": "00:1A:79:00:0D:6F",
+      "mac": "00:1A:79:00:00:A1",
+      "serial": "311E049B4DC59",
+      "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
       "censored": false
     },
     {
