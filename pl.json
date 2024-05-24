@@ -6,6 +6,13 @@
       "type": "por",
       "mac": "00:1A:79:59:71:6F",
       "censored": false
+    },    
+{
+      "name": "ENT4U_120824",
+      "url": "http://51.159.70.234/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:E6:A4",
+      "censored": false
     },
     {
       "name": "ENT4U_102524",
