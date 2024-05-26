@@ -14,12 +14,11 @@
       "mac": "00:1A:79:00:E6:A4",
       "censored": false
     },
-    {
-      "name": "RAST_111624",
-      "url": "http://starshare.live:8080",
-      "type": "m3u",
-      "username": "gopal529",
-      "password": "15051529",
+{
+      "name": "PHW_100425",
+      "url": "https://dhoom4u.me/stalker_portal/c",
+      "type": "por",
+      "mac": "00:1A:79:7B:6E:4D",
       "censored": false
     }
   ],
@@ -73,6 +72,14 @@
       "url": "http://tv.cloudcdn.me:80/c/",
       "type": "por",
       "mac": "00:1A:79:0E:F7:2B",
+      "censored": false
+    }, 
+{
+      "name": "RAST_111624",
+      "url": "http://starshare.live:8080",
+      "type": "m3u",
+      "username": "gopal529",
+      "password": "15051529",
       "censored": false
     },
     {
