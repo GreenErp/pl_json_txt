@@ -24,19 +24,7 @@ https://cdn-1.bdiptv24.line.pm/live/GaziTv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Tsports HD
 https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sta*r Sports 1 FHD
-https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sta*r Sports Hindi HD
-https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sky Sports Cricket UHD
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Super Sports Cricket HD
-https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8 
-
+ 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Astro Cricket HD
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 
