@@ -15,10 +15,11 @@
       "censored": false
     },
     {
-      "name": "ENT4U_102524",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:8B:94:20",
+      "name": "RAST_111624",
+      "url": "http://starshare.live:8080",
+      "type": "m3u",
+      "username": "gopal529",
+      "password": "15051529",
       "censored": false
     }
   ],
@@ -30,6 +31,13 @@
       "mac": "00:1A:79:00:9B:7A",
       "serial": "311E049B4DC59",
       "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
+      "censored": false
+    },  
+{
+      "name": "ENT4U_102524",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
