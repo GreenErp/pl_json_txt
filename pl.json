@@ -1,24 +1,24 @@
 {
   "pl": [
     {
-      "name": "PHW5000_121724",
-      "url": "https://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:59:71:6F",
-      "censored": false
-    },    
-{
       "name": "ENT4U_120824",
       "url": "http://51.159.70.234/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:00:E6:A4",
       "censored": false
     },
-{
+    {
       "name": "PHW_100425",
       "url": "https://dhoom4u.me/stalker_portal/c",
       "type": "por",
       "mac": "00:1A:79:7B:6E:4D",
+      "censored": false
+    },
+    {
+      "name": "EURO_112624",
+      "url": "http://exprestv.win:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:0C:0A:98",
       "censored": false
     }
   ],
@@ -31,8 +31,8 @@
       "serial": "311E049B4DC59",
       "deviceid": "46067DDD05614E660DD6E398EEF0CAC527190C340CECD21C03DB165ED47BFEBC",
       "censored": false
-    },  
-{
+    },
+    {
       "name": "ENT4U_102524",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
@@ -73,13 +73,20 @@
       "type": "por",
       "mac": "00:1A:79:0E:F7:2B",
       "censored": false
-    }, 
-{
+    },
+    {
       "name": "RAST_111624",
       "url": "http://starshare.live:8080",
       "type": "m3u",
       "username": "gopal529",
       "password": "15051529",
+      "censored": false
+    },
+    {
+      "name": "PHW5000_121724",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:59:71:6F",
       "censored": false
     },
     {
