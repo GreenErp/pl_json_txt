@@ -13,13 +13,6 @@
       "type": "por",
       "mac": "00:1A:79:00:E6:A4",
       "censored": false
-    },
-    {
-      "name": "EURO_112624",
-      "url": "http://exprestv.win:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:0C:0A:98",
-      "censored": false
     }
   ],
   "pl-more": [
@@ -49,6 +42,13 @@
       "url": "http://foxx-tv.com:8080/c/",
       "type": "por",
       "mac": "00:1A:79:CB:78:86",
+      "censored": false
+    }, 
+{
+      "name": "EURO_112624",
+      "url": "http://exprestv.win:80/c/",
+      "type": "por",
+      "mac": "00:1A:79:0C:0A:98",
       "censored": false
     },
     {
