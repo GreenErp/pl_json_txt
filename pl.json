@@ -38,13 +38,6 @@
       "censored": false
     },
     {
-      "name": "ASIA-2_070824",
-      "url": "http://tr.redatvgold.com:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:00:78",
-      "censored": false
-    },
-    {
       "name": "ENT4U-100324",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
@@ -56,21 +49,6 @@
       "url": "http://foxx-tv.com:8080/c/",
       "type": "por",
       "mac": "00:1A:79:CB:78:86",
-      "censored": false
-    },
-    {
-      "name": "CLDTV-071024",
-      "url": "http://tv.cloudcdn.me:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:0E:F7:2B",
-      "censored": false
-    },
-    {
-      "name": "RAST_111624",
-      "url": "http://starshare.live:8080",
-      "type": "m3u",
-      "username": "gopal529",
-      "password": "15051529",
       "censored": false
     },
     {
