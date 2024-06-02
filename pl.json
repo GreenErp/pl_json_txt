@@ -13,6 +13,12 @@
       "type": "por",
       "mac": "00:1A:79:00:E6:A4",
       "censored": false
+    },
+{ 
+      "name": "playlist test",
+url":"https://m3u-editor.com/serve/techhelperzoffical",
+      "type": "m3u",
+      "censored": false
     }
   ],
   "pl-more": [
