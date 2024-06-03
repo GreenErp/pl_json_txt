@@ -14,9 +14,9 @@
       "mac": "00:1A:79:00:E6:A4",
       "censored": false
     },
-{ 
+    {
       "name": "TechHelper_list",
-"url":"https://m3u-editor.com/serve/techhelperzoffical",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_techhelper.m3u",
       "type": "m3u",
       "censored": false
     }
@@ -49,8 +49,8 @@
       "type": "por",
       "mac": "00:1A:79:CB:78:86",
       "censored": false
-    }, 
-{
+    },
+    {
       "name": "EURO_112624",
       "url": "http://exprestv.win:80/c/",
       "type": "por",
@@ -62,6 +62,20 @@
       "url": "https://dhoom4u.me/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:59:71:6F",
+      "censored": false
+    },
+    {
+      "name": "India-list",
+      "url": "http://watchindia.net:8880",
+      "type": "m3u",
+      "username": "69354",
+      "password": "82115",
+      "censored": false
+    },
+    {
+      "name": "TechHelper_list",
+      "url": "https://m3u-editor.com/serve/techhelperzoffical",
+      "type": "m3u",
       "censored": false
     },
     {
