@@ -15,7 +15,7 @@
       "censored": false
     },
     {
-      "name": "TechHelper_list",
+      "name": "TechHelper-list",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_techhelper.m3u",
       "type": "m3u",
       "censored": false
