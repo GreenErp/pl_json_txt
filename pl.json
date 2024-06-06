@@ -17,17 +17,16 @@
     {
       "name": "TechHelper-list",
       "url_old": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_techhelper.m3u",
-"url":"https://m3u.work/qUsHqiR0.m3u",
+      "url": "https://m3u.work/qUsHqiR0.m3u",
       "type": "m3u",
       "censored": false
     }
   ],
   "pl-ios": [
     {
-      "name": "PHW_100425",
-      "url": "https://dhoom4u.me/stalker_portal/c",
-      "type": "por",
-      "mac": "00:1A:79:7B:6E:4D",
+      "name": "GV Test",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
+      "type": "m3u",
       "censored": false
     }
   ],
