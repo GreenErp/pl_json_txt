@@ -8,17 +8,18 @@
       "censored": false
     },
     {
-      "name": "ENT4U_120824",
-      "url": "http://51.159.70.234/stalker_portal/c/",
+      "name": "ENT4U_102524",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
-      "mac": "00:1A:79:00:E6:A4",
+      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
-      "name": "TechHelper-list",
-      "url_old": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_techhelper.m3u",
-      "url": "https://m3u.work/qUsHqiR0.m3u",
+      "name": "India-list",
+      "url": "http://watchindia.net:8880",
       "type": "m3u",
+      "username": "69354",
+      "password": "82115",
       "censored": false
     }
   ],
@@ -31,13 +32,6 @@
     }
   ],
   "pl-more": [
-    {
-      "name": "ENT4U_102524",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:8B:94:20",
-      "censored": false
-    },
     {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
@@ -91,6 +85,13 @@
       "name": "GV Test",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
+      "censored": false
+    },
+    {
+      "name": "PHW5000-051524",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8C:09:80",
       "censored": false
     }
   ]
