@@ -86,13 +86,6 @@
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
-    },
-    {
-      "name": "PHW5000-051524",
-      "url": "https://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:8C:09:80",
-      "censored": false
     }
   ]
 }
