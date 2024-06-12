@@ -8,18 +8,10 @@
       "censored": false
     },
     {
-      "name": "ENT4U_102524",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "name": "TVPRO_1011725",
+      "url": "http://w4ktvpro.com:8080/c/",
       "type": "por",
-      "mac": "00:1A:79:8B:94:20",
-      "censored": false
-    },
-    {
-      "name": "India-list",
-      "url": "http://watchindia.net:8880",
-      "type": "m3u",
-      "username": "69354",
-      "password": "82115",
+      "mac": "00:1A:79:60:3e:54",
       "censored": false
     }
   ],
@@ -44,6 +36,13 @@
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:B4:F2:58",
+      "censored": false
+    },
+    {
+      "name": "ENT4U_102524",
+      "url": "http://entertainmentj4u.com/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
