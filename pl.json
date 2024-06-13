@@ -13,6 +13,12 @@
       "type": "por",
       "mac": "00:1A:79:60:3e:54",
       "censored": false
+    },
+    {
+      "name": "TechHelper_list",
+      "url": "https://m3u.work/qUsHqiR0.m3u",
+      "type": "m3u",
+      "censored": false
     }
   ],
   "pl-ios": [
