@@ -15,8 +15,8 @@
       "censored": false
     },
     {
-      "name": "TechHelper_list",
-      "url": "https://m3u.work/qUsHqiR0.m3u",
+      "name": "TECH HELP",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
     }
@@ -83,12 +83,6 @@
     {
       "name": "TechHelper_list",
       "url": "https://m3u.work/qUsHqiR0.m3u",
-      "type": "m3u",
-      "censored": false
-    },
-    {
-      "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
     }
