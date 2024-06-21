@@ -1434,11 +1434,6 @@ http://xtv.ooo:8080/8596959/9485950/345870
 
 
 ##------MOVIES-----
-#EXTINF:1 group-title="English" tvg-logo="",The Angel 2018
-https://gamn.v41f5cdbeef.site//_v2-vrln//9a701df34aa7e4ae16c25b01dd7fefae211975c44e1ac9e78bc478fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb28d7ff9aa0d734593957b6bccd606443f79fd31956adba7fa68c1aa7684569182069d7fa9fbabce0a9c794ceee090e2f57f6399ca08b448f72d62//h//list;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8
-
-
-
 
 #EXTINF:1 tvg-id="" tvg-name="Anjaam Pathiraa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Re5yuWSIDTbG1Ci69RtBfNCbNG.jpg" group-title="Malayalam",Anjaam Pathiraa (2020)
 http://watchindia.net:8880/movie/69354/82115/1076.mkv
@@ -3246,4 +3241,6 @@ http://watchindia.net:8880/movie/69354/82115/2627.mkv
 http://watchindia.net:8880/movie/69354/82115/2628.mkv
 
 
-
+##---OWN LINKS-------
+#EXTINF:1 group-title="English" tvg-logo="",The Angel 2018
+https://gamn.v41f5cdbeef.site//_v2-vrln//9a701df34aa7e4ae16c25b01dd7fefae211975c44e1ac9e78bc478fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb28d7ff9aa0d734593957b6bccd606443f79fd31956adba7fa68c1aa7684569182069d7fa9fbabce0a9c794ceee090e2f57f6399ca08b448f72d62//h//list;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8
