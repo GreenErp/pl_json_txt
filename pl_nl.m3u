@@ -1,45 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="DD SPORTS" tvg-id="3118"  group-title="SPORTS" tvg-language="English"  DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-id="3118"  group-title="SPORTS" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" beinsports 3 
-https://epg.pw/stream/a62c5fb69a38aa8a961090e7e0253362dfdbec8dccd481d1424471beb8e1c81d.ctv
-#EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="SPORTS",[HD]ESPN
-https://epg.pw/stream/e937c7de271db36957b4a68b8813dc4df4e66f2ac20062c128f2e0578c8f59ee.ctv
-#EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="SPORTS",[HD]ESPN 2
-https://epg.pw/stream/fd67f9cea46d85382c4f9023ea086a89df1fbe96ff6da0cff6d7a65ae4b6a5dd.ctv
-#EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2014/11/25/large/20141125170114178278_47.jpg" group-title="SPORTS",[BD]espn hd
-https://epg.pw/stream/bc620e05079c4c8b383223cd00544451bd4f7f56ae6fb6981ecf38b967376665.ctv
-#EXTINF:-1 tvg-name="ESPN NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/25/large/20220625152948057557_76.png" group-title="SPORTS",[HD]ESPN NEWS
-https://epg.pw/stream/e80067b3b6856648fba1eb665bb21da450007a84f16e46e70d3aa10942105d20.ctv
-#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="SPORTS",[HD]Fox Sports 2 
-https://epg.pw/stream/0b74a2affe0c8959920957238f1649a544ee4aee839c3fb3fa614b5c16ada56d.ctv
-#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="SPORTS",[HD]Fox Sports 2 
-https://epg.pw/stream/e73f7d848eba976f85070239c0616b079684afb08aa06255a54b12b8d6f4136a.ctv
-#EXTINF:-1 tvg-name="WWE HD" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229173935030151_22.jpg" group-title="SPORTS",WWE
-https://epg.pw/stream/f66c08707aa6d3fb4af2bd57605c7b09a9b4dd181aeaf9fef5cdfe4ae4446df9.ctv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Gazi Tv HD
-https://cdn-1.bdiptv24.line.pm/live/GaziTv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Tsports HD
-https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sta*r Sports 1 FHD
-https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sta*r Sports Hindi HD
-https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Sky Sports Cricket UHD
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Super Sports Cricket HD
-https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CRICKET",Astro Cricket HD
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="ENGLISH NEWS", CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" tvg-name="CNN" group-title="ENGLISH NEWS",CNN
@@ -108,6 +68,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
+##----ENGLISH MOVIES ------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="ENGLISH MOVIES", RAKUTEN ACTION UK
@@ -130,10 +91,9 @@ https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Moviesphere-Free.jpg" group-title="ENGLISH MOVIES", MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="ENGLISH MOVIES",GROOVY
-http://bit.ly/2p6JqSo
 
 
+## -----ENGLISH --------
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="ENGLISH",MTV Global (576p)
 http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="BeachTVCSULB.us" tvg-logo="https://i.imgur.com/EJjfSWi.png" group-title="ENGLISH",Beach TV CSULB (160p)
@@ -157,6 +117,7 @@ https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="ENGLISH",30A The Beach Show (720p)
 https://30a-tv.com/beachy.m3u8
 
+##-----ARABIC-----
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="ARABIC",France 24 Arabic (1080p)
 https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="ARABIC",Al Saudiya (1080p) [Not 24/7]
@@ -184,6 +145,7 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-name="Sky News Arabia" group-title="ARABIC",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
+##----MALAYALAM-----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="MALAYALAM", MATRUBOOMI
@@ -227,6 +189,7 @@ https://ythls.onrender.com/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MePj7ET.png" tvg-name="Zee News Malayalam" group-title="MALAYALAM",Zee News Malayalam
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 
+##---TAMIL----
 #EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="TAMIL",Asianet News Tamil (360p) 
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-id="SunNews.in" tvg-logo="https://i.imgur.com/mQWpBdv.png" group-title="TAMIL",Sun News (1080p)
@@ -243,6 +206,7 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 https://ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8
 
 
+##----KANNADA-----
 #EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-logo="https://i.imgur.com/19joZ1o.png" group-title="KANNADA",Asianet News Kannada
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="KANNADA",Suvarna News 
@@ -401,9 +365,6 @@ http://50.7.234.10:8278/Axn/playlist.m3u8
 #EXTINF:-1  tvg-name="B4u Movies" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_1155585007615362806035538.png",B4u Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_1838307340763064143580628.png",CINEMAX Portugal
-http://64.31.40.14:14031/
-
 #EXTINF:-1  tvg-name="Great American Country" group-title="English" tvg-logo="",Great American Country
 http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52060
 
@@ -460,5 +421,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
 
+
+##------MOVIES-----
 #EXTINF:1 group-title="English" tvg-logo="",The Angel 2018
 https://gamn.v41f5cdbeef.site//_v2-vrln//9a701df34aa7e4ae16c25b01dd7fefae211975c44e1ac9e78bc478fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb28d7ff9aa0d734593957b6bccd606443f79fd31956adba7fa68c1aa7684569182069d7fa9fbabce0a9c794ceee090e2f57f6399ca08b448f72d62//h//list;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8
