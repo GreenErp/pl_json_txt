@@ -74,7 +74,7 @@ https://kora-sa.live/hls/0/stream.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Sports",TVMAX
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ZyiMZHrzEaE1PNcJ77C8C2mHSvwFYUlgTCvn-g3e154PtsKc5S7FJqE1v_-UH5h5_kkfZYSUB9fD3f7GkVvVFA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_playlist.m3u8?type=live
-#EXTINF:-1 group-title="Sports",,CCTV5 HD
+#EXTINF:-1 group-title="Sports",CCTV5 HD
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=520491&extension=m3u8&play_token=lHjqZoL0sb
