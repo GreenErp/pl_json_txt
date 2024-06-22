@@ -56,45 +56,45 @@ http://watchindia.net:8880/live/69354/82115/2145.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="Sports",Astro Cricket
 http://watchindia.net:8880/live/69354/82115/2174.ts
 
-#EXTINF:-1,group-title="Sports",Super sports grandstand
+#EXTINF:-1 group-title="Sports",Super sports grandstand
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1,group-title="Sports",ASTRO CRICKET
+#EXTINF:-1 group-title="Sports",ASTRO CRICKET
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTINF:-1,group-title="Sports",ESPN News HD USA
+#EXTINF:-1 group-title="Sports",ESPN News HD USA
 http://38.96.178.201/live/ESPNews/index.m3u8
-#EXTINF:-1,group-title="Sports",COPA America 2024
+#EXTINF:-1 group-title="Sports",COPA America 2024
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1,group-title="Sports",COPA America 2024 HD
+#EXTINF:-1 group-title="Sports",COPA America 2024 HD
 https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1,group-title="Sports",COPA America 2024 SD
+#EXTINF:-1 group-title="Sports",COPA America 2024 SD
 https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
-#EXTINF:-1,group-title="Sports",UEFA Euro 2024
+#EXTINF:-1 group-title="Sports",UEFA Euro 2024
 https://kora-sa.live/hls/0/stream.m3u8
-#EXTINF:-1,group-title="Sports",UEFA Euro 2024
+#EXTINF:-1 group-title="Sports",UEFA Euro 2024
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1,group-title="Sports",TVMAX
+#EXTINF:-1 group-title="Sports",TVMAX
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ZyiMZHrzEaE1PNcJ77C8C2mHSvwFYUlgTCvn-g3e154PtsKc5S7FJqE1v_-UH5h5_kkfZYSUB9fD3f7GkVvVFA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_playlist.m3u8?type=live
-#EXTINF:-1,group-title="Sports",,CCTV5 HD
+#EXTINF:-1 group-title="Sports",,CCTV5 HD
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 FHD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=520491&extension=m3u8&play_token=lHjqZoL0sb
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/2830.m3u8?play_token=XPsfpaQQXY
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=37853&extension=m3u8&play_token=P5y65L955n
 #EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=2816&extension=m3u8&play_token=71S1Txu18c&sn2=
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=2817&extension=m3u8&play_token=dwQ1rnpA23&sn2=
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:44:BB:08&stream=37853&extension=m3u8&play_token=cnCEqRs1ti
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 FHD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779037&extension=m3u8&play_token=xZ1HcewHxU&sn2=
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 FHD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779037&extension=m3u8&play_token=ES2mkHRUkC&sn2=
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779038&extension=m3u8&play_token=DvdnaPAJzl&sn2=
-#EXTINF:-1,group-title="Sports",BEIN SPORT 1 HD FR
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779038&extension=m3u8&play_token=bSVYNHdl6G&sn2=
 
 
