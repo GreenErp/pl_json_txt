@@ -1,4 +1,4 @@
-#EXTM3U
+i#EXTM3U
 
 ##-----SPORTS-------
 #EXTINF:-1 tvg-id="" tvg-name="ICC T20 World Cup 1 (Match Time)" tvg-logo="https://watchindia.net/images/channels/sports/ICC.png" group-title="Sports",ICC T20 World Cup 1 (Match Time)
@@ -76,28 +76,8 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ZyiMZHrzEaE1PNcJ77C8C2mHSvwFYUlgTCvn-g3e154PtsKc5S7FJqE1v_-UH5h5_kkfZYSUB9fD3f7GkVvVFA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_playlist.m3u8?type=live
 #EXTINF:-1 group-title="Sports",CCTV5 HD
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR 1
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=520491&extension=m3u8&play_token=lHjqZoL0sb
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 2
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 
 http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/2830.m3u8?play_token=XPsfpaQQXY
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 3
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=37853&extension=m3u8&play_token=P5y65L955n
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=2816&extension=m3u8&play_token=71S1Txu18c&sn2=
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 5
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=2817&extension=m3u8&play_token=dwQ1rnpA23&sn2=
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 6
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:44:BB:08&stream=37853&extension=m3u8&play_token=cnCEqRs1ti
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR 7
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779037&extension=m3u8&play_token=xZ1HcewHxU&sn2=
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 FHD FR 8
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779037&extension=m3u8&play_token=ES2mkHRUkC&sn2=
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 9
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779038&extension=m3u8&play_token=DvdnaPAJzl&sn2=
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 HD FR 10
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=779038&extension=m3u8&play_token=bSVYNHdl6G&sn2=
-
-
 
 ##-----INDIAN SPORTS-------
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
