@@ -1,10 +1,10 @@
 {
   "pl": [
     {
-      "name": "PHW_100425",
+      "name": "PHW5000_121724",
       "url": "https://dhoom4u.me/stalker_portal/c",
       "type": "por",
-      "mac": "00:1A:79:7B:6E:4D",
+      "mac": "00:1A:79:59:71:6f",
       "censored": false
     },
     {
@@ -66,10 +66,10 @@
       "censored": false
     },
     {
-      "name": "PHW5000_121724",
+      "name": "PHW_100425",
       "url": "https://dhoom4u.me/stalker_portal/c/",
       "type": "por",
-      "mac": "00:1A:79:59:71:6F",
+      "mac": "00:1A:79:7B:6E:4D",
       "censored": false
     },
     {
