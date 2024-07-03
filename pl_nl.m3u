@@ -1,5 +1,35 @@
 #EXTM3U
 ## ------TEMP SPORTS-------###
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZPLAY SPORTS SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZPLAY SPORTS SD
+http://captintv.xyz:80/live/omarzayed/68380888/225414.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZPLAY SPORTS HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZPLAY SPORTS HD
+http://captintv.xyz:80/live/omarzayed/68380888/225413.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZ PLAY SPORTS FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZ PLAY SPORTS FHD
+http://captintv.xyz:80/live/omarzayed/68380888/225412.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 SD
+http://captintv.xyz:80/live/omarzayed/68380888/225411.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 HD
+http://captintv.xyz:80/live/omarzayed/68380888/225410.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 FHD
+http://captintv.xyz:80/live/omarzayed/68380888/225409.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 SD
+http://captintv.xyz:80/live/omarzayed/68380888/225408.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 HD
+http://captintv.xyz:80/live/omarzayed/68380888/225407.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 FHD
+http://captintv.xyz:80/live/omarzayed/68380888/225406.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM SD
+http://captintv.xyz:80/live/omarzayed/68380888/225405.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM FHD
+http://captintv.xyz:80/live/omarzayed/68380888/225404.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM HD
+http://captintv.xyz:80/live/omarzayed/68380888/225403.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM SD
+http://captintv.xyz:80/live/omarzayed/68380888/225402.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM FHD
+http://captintv.xyz:80/live/omarzayed/68380888/225401.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM HD
+http://captintv.xyz:80/live/omarzayed/68380888/225400.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-SPORT-FRENCH-2-576P" tvg-logo="s:1:/images/Bp-vRtZEje6kFpdMZzWxZ1imLdbWtSEIZbCuzJk4ITF0fRSvVZO7onCOMqpsSsW4XoWAbZV7SZqoNWnzIvAODCpJewRt8-tLJ73RM2p-XLA.png" group-title="| beIN_SPORTS SD |",BEIN-SPORT-FRENCH-2-576P
 http://captintv.xyz:80/live/omarzayed/68380888/189934.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-SPORT-FRENCH-1-576P" tvg-logo="s:1:/images/Bp-vRtZEje6kFpdMZzWxZ1imLdbWtSEIZbCuzJk4ITF0fRSvVZO7onCOMqpsSsW4XoWAbZV7SZqoNWnzIvAODCpJewRt8-tLJ73RM2p-XLA.png" group-title="| beIN_SPORTS SD |",BEIN-SPORT-FRENCH-1-576P
@@ -154,36 +184,6 @@ http://captintv.xyz:80/live/omarzayed/68380888/189944.ts
 http://captintv.xyz:80/live/omarzayed/68380888/189929.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-SPORT-XTRA-1-576P" tvg-logo="s:1:/images/Bp-vRtZEje6kFpdMZzWxZ1imLdbWtSEIZbCuzJk4ITF0fRSvVZO7onCOMqpsSsW4XoWAbZV7SZqoNWnzIvAODCpJewRt8-tLJ73RM2p-XLA.png" group-title="| beIN_SPORTS XTRA|",BEIN-SPORT-XTRA-1-576P
 http://captintv.xyz:80/live/omarzayed/68380888/189928.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZPLAY SPORTS SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZPLAY SPORTS SD
-http://captintv.xyz:80/live/omarzayed/68380888/225414.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZPLAY SPORTS HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZPLAY SPORTS HD
-http://captintv.xyz:80/live/omarzayed/68380888/225413.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | STARZ PLAY SPORTS FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | STARZ PLAY SPORTS FHD
-http://captintv.xyz:80/live/omarzayed/68380888/225412.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 SD
-http://captintv.xyz:80/live/omarzayed/68380888/225411.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 HD
-http://captintv.xyz:80/live/omarzayed/68380888/225410.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 2 FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 2 FHD
-http://captintv.xyz:80/live/omarzayed/68380888/225409.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 SD
-http://captintv.xyz:80/live/omarzayed/68380888/225408.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 HD
-http://captintv.xyz:80/live/omarzayed/68380888/225407.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | CRICLIFE 1 FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | CRICLIFE 1 FHD
-http://captintv.xyz:80/live/omarzayed/68380888/225406.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM SD
-http://captintv.xyz:80/live/omarzayed/68380888/225405.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM FHD
-http://captintv.xyz:80/live/omarzayed/68380888/225404.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 2 PREMIUM HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 2 PREMIUM HD
-http://captintv.xyz:80/live/omarzayed/68380888/225403.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM SD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM SD
-http://captintv.xyz:80/live/omarzayed/68380888/225402.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM FHD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM FHD
-http://captintv.xyz:80/live/omarzayed/68380888/225401.ts
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY | AD SPORTS 1 PREMIUM HD" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w0ceyqe6qzi4g2m6sb20" group-title="STARZ PLAY | SPORT",STARZPLAY | AD SPORTS 1 PREMIUM HD
-http://captintv.xyz:80/live/omarzayed/68380888/225400.ts
 
 
 ##-----SPORTS-------
@@ -282,10 +282,6 @@ http://xtv.ooo:8080/8596959/9485950/109993
 http://xtv.ooo:8080/8596959/9485950/109994
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
 http://xtv.ooo:8080/8596959/9485950/206324
-
-
-
-
 
 
 ##----ENGLISH NEWS-----
