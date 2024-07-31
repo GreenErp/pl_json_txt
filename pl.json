@@ -8,13 +8,6 @@
       "censored": false
     },
     {
-      "name": "TVPRO_011725",
-      "url": "http://w4ktvpro.com:8080/c/",
-      "type": "por",
-      "mac": "00:1A:79:60:3e:54",
-      "censored": false
-    },
-    {
       "name": "TECH_HELP",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
@@ -22,6 +15,13 @@
     }
   ],
   "pl-more_old": [
+    {
+      "name": "TVPRO_011725",
+      "url": "http://w4ktvpro.com:8080/c/",
+      "type": "por",
+      "mac": "00:1A:79:60:3e:54",
+      "censored": false
+    },
     {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
