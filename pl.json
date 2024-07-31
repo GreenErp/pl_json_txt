@@ -15,7 +15,7 @@
       "censored": false
     },
     {
-      "name": "TECH HELP",
+      "name": "TECH_HELP",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
