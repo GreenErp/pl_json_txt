@@ -21,15 +21,7 @@
       "censored": false
     }
   ],
-  "pl-ios": [
-    {
-      "name": "GV Test",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
-      "type": "m3u",
-      "censored": false
-    }
-  ],
-  "pl-more": [
+  "pl-more_old": [
     {
       "name": "ENT4U-121624",
       "url": "http://entertainmentj4u.com/stalker_portal/c/",
