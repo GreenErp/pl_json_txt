@@ -13,7 +13,7 @@
       "type": "m3u",
       "censored": false
     },
-   {
+    {
       "name": "STARSHARE",
       "url": "http://starshare.live:8080/c/",
       "type": "por",
