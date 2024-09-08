@@ -1,4 +1,12 @@
-{
+{ "pl-x": [
+      {
+        "name": "Update GreenVUE",
+        "url": "https:////c",
+        "type": "por",
+        "mac": "00:1A:79:00:00:00",
+        "censored": false
+      }
+]
     "pl-x": [
       {
         "name": "PHW5000_121724",
