@@ -1,13 +1,6 @@
 {
   "pl": [
     {
-      "name": "PHW5000_121724",
-      "url": "https://dhoom4u.me/stalker_portal/c",
-      "type": "por",
-      "mac": "00:1A:79:59:71:6f",
-      "censored": false
-    },
-    {
       "name": "TECH_HELP",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
