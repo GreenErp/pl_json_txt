@@ -5,13 +5,6 @@
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nl.m3u",
       "type": "m3u",
       "censored": false
-    },
-    {
-      "name": "STARSHARE",
-      "url": "http://starshare.live:8080/c/",
-      "type": "por",
-     "mac": "00:1A:79:36:34:66",
-      "censored": false
     }
   ],
   "pl-more_old": [
