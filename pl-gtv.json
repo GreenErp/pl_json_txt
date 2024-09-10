@@ -30,7 +30,7 @@
         "censored": false
       },
       {
-        "name": "king-1_unlimit",
+        "name": "king-1_000000",
         "url": "http://king-ott.xyz:8080/c/",
         "type": "por",
         "mac": "00:1A:79:B4:53:08",
@@ -41,6 +41,13 @@
         "url": "http://w4ktvpro.com:8080/c/",
         "type": "por",
         "mac": "00:1A:79:60:3e:54",
+        "censored": false
+      },
+      {
+        "name": "RADA_101924",
+        "url": "http://tr.radatvgold.com/c/",
+        "type": "por",
+        "mac": "00:1A:79:6E:DF:E1",
         "censored": false
       }
     ],
