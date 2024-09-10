@@ -14,10 +14,33 @@
         "censored": false
       },
       {
-        "name": "STARSHARE",
-        "url": "http://starshare.live:8080/c/",
+        "name": "NEZ",
+        "url": "http://zenlink.link/c/",
         "type": "por",
-       "mac": "00:1A:79:36:34:66",
+       "mac": "00:1a:79:bd:35:f7",
+        "censored": false
+      }
+    ],
+    "pl-more": [
+      {
+        "name": "optimu_010127",
+        "url": "http://optimus-tv.org:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:10:DE:8A",
+        "censored": false
+      },
+      {
+        "name": "king-1_unlimit",
+        "url": "http://king-ott.xyz:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:B4:53:08",
+        "censored": false
+      },
+      {
+        "name": "TVPRO_011725",
+        "url": "http://w4ktvpro.com:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:60:3e:54",
         "censored": false
       }
     ],
@@ -27,27 +50,6 @@
         "url": "http://w4ktvpro.com:8080/c/",
         "type": "por",
         "mac": "00:1A:79:60:3e:54",
-        "censored": false
-      },
-      {
-        "name": "ENT4U-121624",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:7A:E8:F0",
-        "censored": false
-      },
-      {
-        "name": "ENT4U-100324",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:B4:F2:58",
-        "censored": false
-      },
-      {
-        "name": "ENT4U_102524",
-        "url": "http://entertainmentj4u.com/stalker_portal/c/",
-        "type": "por",
-        "mac": "00:1A:79:8B:94:20",
         "censored": false
       },
       {
