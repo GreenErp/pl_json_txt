@@ -13,11 +13,11 @@
         "type": "m3u",
         "censored": false
       },
-      {
-        "name": "NEZ",
-        "url": "http://zenlink.link/c/",
+     {
+        "name": "king-1_000000",
+        "url": "http://king-ott.xyz:8080/c/",
         "type": "por",
-       "mac": "00:1a:79:bd:35:f7",
+        "mac": "00:1A:79:B4:53:08",
         "censored": false
       }
     ],
@@ -27,13 +27,6 @@
         "url": "http://optimus-tv.org:8080/c/",
         "type": "por",
         "mac": "00:1A:79:10:DE:8A",
-        "censored": false
-      },
-      {
-        "name": "king-1_000000",
-        "url": "http://king-ott.xyz:8080/c/",
-        "type": "por",
-        "mac": "00:1A:79:B4:53:08",
         "censored": false
       },
       {
@@ -48,6 +41,13 @@
         "url": "http://tr.radatvgold.com/c/",
         "type": "por",
         "mac": "00:1A:79:6E:DF:E1",
+        "censored": false
+      },
+   {
+        "name": "NEZ",
+        "url": "http://zenlink.link/c/",
+        "type": "por",
+       "mac": "00:1a:79:bd:35:f7",
         "censored": false
       }
     ],
