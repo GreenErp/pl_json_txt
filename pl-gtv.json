@@ -13,13 +13,6 @@
      "mac": "00:1A:79:17:C0:71",
         "type": "por",
         "censored": false
-      },
-      {
-        "name": "king-1_000000",
-        "url": "http://king-ott.xyz:8080/c/",
-        "type": "por",
-        "mac": "00:1A:79:B4:53:08",
-        "censored": false
       }
     ],
     "pl-more": [
@@ -53,6 +46,13 @@
       }
     ],
     "pl-more-x": [
+      {
+        "name": "king-1_000000",
+        "url": "http://king-ott.xyz:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:B4:53:08",
+        "censored": false
+      },
       {
         "name": "TVPRO_011725",
         "url": "http://w4ktvpro.com:8080/c/",
