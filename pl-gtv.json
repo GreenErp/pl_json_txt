@@ -1,6 +1,15 @@
 {
     "pl": [
-      {
+          {
+      "name": "Open IP-TV",
+      "url": "https://iptv.llc/",
+      "type": "m3u",
+      "censored": false
+    }
+    ],
+    "pl-more": [],
+pl-old:[
+{
         "name": "PHW5000_121724",
         "url": "https://dhoom4u.me/stalker_portal/c",
         "type": "por",
@@ -13,9 +22,7 @@
      "mac": "00:1A:79:17:C0:71",
         "type": "por",
         "censored": false
-      }
-    ],
-    "pl-more": [
+      },
       {
         "name": "optimu_010127",
         "url": "http://optimus-tv.org:8080/c/",
