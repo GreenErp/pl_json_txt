@@ -1,5 +1,11 @@
 {
-  "pl": [ ],
+  "pl": [
+          {
+      "name": "Open Iptv",
+      "url": "https://iptv.llc/",
+      "type": "m3u",
+      "censored": false
+    } ],
   "pl-more_old": [
 
     {
