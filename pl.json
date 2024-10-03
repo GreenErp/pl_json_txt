@@ -1,5 +1,7 @@
 {
-  "pl": [
+  "pl": [ ],
+  "pl-more_old": [
+
     {
       "name": "PHW_100425",
       "url": "https://dhoom4u.me/stalker_portal/c/",
@@ -14,10 +16,8 @@
       "username": "65596",
       "password": "46234",
       "censored": false
-    }
-  ],
-  "pl-more_old": [
-    {
+    },
+{
       "name": "TVPRO_011725",
       "url": "http://w4ktvpro.com:8080/c/",
       "type": "por",
