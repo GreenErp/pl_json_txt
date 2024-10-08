@@ -72,4 +72,99 @@
       "censored": false
     }
   ]
+  "pl-old":[
+{
+        "name": "PHW5000_121724",
+        "url": "https://dhoom4u.me/stalker_portal/c",
+        "type": "por",
+        "mac": "00:1A:79:59:71:6f",
+        "censored": false
+      },
+      {
+        "name": "watchasia",
+        "url": "http://195.26.87.217/c/",
+     "mac": "00:1A:79:17:C0:71",
+        "type": "por",
+        "censored": false
+      },
+      {
+        "name": "optimu_010127",
+        "url": "http://optimus-tv.org:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:10:DE:8A",
+        "censored": false
+      },
+      {
+        "name": "TVPRO_011725",
+        "url": "http://w4ktvpro.com:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:60:3e:54",
+        "censored": false
+      },
+      {
+        "name": "RADA_101924",
+        "url": "http://tr.radatvgold.com/c/",
+        "type": "por",
+        "mac": "00:1A:79:6E:DF:E1",
+        "censored": false
+      },
+   {
+        "name": "NEZ",
+        "url": "http://zenlink.link/c/",
+        "type": "por",
+       "mac": "00:1a:79:bd:35:f7",
+        "censored": false
+      }
+    ],
+    "pl-more-x": [
+      {
+        "name": "king-1_000000",
+        "url": "http://king-ott.xyz:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:B4:53:08",
+        "censored": false
+      },
+      {
+        "name": "TVPRO_011725",
+        "url": "http://w4ktvpro.com:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:60:3e:54",
+        "censored": false
+      },
+      {
+        "name": "EURO_101224",
+        "url": "http://foxx-tv.com:8080/c/",
+        "type": "por",
+        "mac": "00:1A:79:CB:78:86",
+        "censored": false
+      },
+      {
+        "name": "EURO_112624",
+        "url": "http://exprestv.win:80/c/",
+        "type": "por",
+        "mac": "00:1A:79:0C:0A:98",
+        "censored": false
+      },
+      {
+        "name": "PHW_100425",
+        "url": "https://dhoom4u.me/stalker_portal/c/",
+        "type": "por",
+        "mac": "00:1A:79:7B:6E:4D",
+        "censored": false
+      },
+            {
+        "name": "India-list",
+        "url": "http://watchindia.net:8880",
+        "type": "m3u",
+        "username": "69354",
+        "password": "82115",
+        "censored": false
+      },
+      {
+        "name": "TechHelper_list",
+        "url": "https://m3u.work/qUsHqiR0.m3u",
+        "type": "m3u",
+        "censored": false
+      }
+    ]
 }
