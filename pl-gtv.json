@@ -1,11 +1,18 @@
  {
 "pl": [
     {
-      "name": "Fluxus TV - English",
-      "url": "https://bit.ly/FTV-ENG",
+      "name": "GV Test",
+      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
       "censored": false
     }
     ],
-    "pl-more": []
+    "pl-more": [
+      {
+        "name": "Fluxus TV - English",
+        "url": "https://bit.ly/FTV-ENG",
+        "type": "m3u",
+        "censored": false
+      }
+    ]
   }
