@@ -1,7 +1,7 @@
  {
 "pl": [
     {
-      "name": "GV Test",
+      "name": "Test-profile",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
       "type": "m3u",
       "censored": false
