@@ -1,12 +1,24 @@
- {
-"pl": [
+ {  "pl": [    {
+      "name": "PHW_100425",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:78:EF:19",
+      "censored": false
+    },
     {
-      "name": "Test-profile",
-      "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/master/pl_nm.m3u",
+      "name": "India-list",
+      "url": "http://watchindia.net:8880",
+      "type": "m3u",
+      "username": "65596",
+      "password": "46234",
+      "censored": false
+    },
+          {
+      "name": "Open Iptv",
+      "url": "https://iptv.llc/",
       "type": "m3u",
       "censored": false
-    }
-    ],
+    } ],
     "pl-more": [
       {
         "name": "Fluxus TV - English",
