@@ -1,20 +1,20 @@
 {
-  "pl": [    
+  "pl": [
+    {
+      "name": "PHW_100425",
+      "url": "https://dhoom4u.me/stalker_portal/c/",
+      "type": "por",
+      "mac": "00:1A:79:78:EF:19",
+      "censored": false
+    },
     {
       "name": "INDIA TV",
       "url": "http://tv.indigotv.me/c/",
       "type": "por",
       "mac": "00:1A:79:00:05:A3",
       "censored": false
-    },
-{
-      "name": "PHW_100425",
-      "url": "https://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:78:EF:19",
-      "censored": false
     }
-   ],
+  ],
   "pl-more_old": [
     {
       "name": "PHW_100425",
