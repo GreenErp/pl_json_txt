@@ -1,4 +1,10 @@
  {  "pl": [
+{
+    "name": "Fluxus TV - English",
+    "url": "https://bit.ly/FTV-ENG",
+    "type": "m3u",
+    "censored": false
+  },
   {
     "name": "Open Iptv",
     "url": "https://iptv.llc/",
