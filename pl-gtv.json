@@ -1,30 +1,66 @@
  {  "pl": [
 {
-    "name": "Fluxus TV - English",
-    "url": "https://bit.ly/FTV-ENG",
+    "name": "IPTV ORG",
+    "url": "https://iptv-org.github.io/iptv/index.m3u",
     "type": "m3u",
     "censored": false
   },
-  {
-    "name": "Open Iptv",
-    "url": "https://iptv.llc/",
-    "type": "m3u",
-    "censored": false
-  }
+
  ],
  "pl-more": [
   {
-    "name": "Fluxus TV - English",
-    "url": "https://bit.ly/FTV-ENG",
+    "name": "Samsung TV",
+    "url": "https://apsattv.com/ssungusa.m3u",
     "type": "m3u",
     "censored": false
   },
-   {
-      "name": "PHW_100425",
-      "url": "https://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:78:EF:19",
-      "censored": false
-    }
-  ]
+  {
+    "name": "TVApp",
+    "url": "https://tvpass.org/playlist/m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "XUMO",
+    "url": "https://www.apsattv.com/xumo.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "Local Now",
+    "url": "https://www.apsattv.com/localnow.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "LG Channels",
+    "url": "https://www.apsattv.com/lg.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "Roku Channel",
+    "url": "https://www.apsattv.com/rok.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "Redbox",
+    "url": "https://www.apsattv.com/redbox.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "DistroTV",
+    "url": "https://www.apsattv.com/distro.m3u",
+    "type": "m3u",
+    "censored": false
+  },
+  {
+    "name": "Xiaomi",
+    "url": "https://www.apsattv.com/xiaomi.m3u",
+    "type": "m3u",
+    "censored": false
+  }
+]
   }
