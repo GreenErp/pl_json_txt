@@ -1,11 +1,10 @@
  {  "pl": [
-{
+  {
     "name": "IPTV ORG",
     "url": "https://iptv-org.github.io/iptv/index.m3u",
     "type": "m3u",
     "censored": false
-  },
-
+  }
  ],
  "pl-more": [
   {
