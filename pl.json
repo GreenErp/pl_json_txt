@@ -6,8 +6,10 @@
       "type": "por",
       "mac": "00:1A:79:78:EF:19",
       "censored": false
-    },
-    {
+    }
+  ],
+   "pl-more" :[
+        {
       "name": "INDIA TV",
       "url": "http://tv.indigotv.me/c/",
       "type": "por",
@@ -36,27 +38,6 @@
       "url": "http://w4ktvpro.com:8080/c/",
       "type": "por",
       "mac": "00:1A:79:60:3e:54",
-      "censored": false
-    },
-    {
-      "name": "ENT4U-121624",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:7A:E8:F0",
-      "censored": false
-    },
-    {
-      "name": "ENT4U-100324",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:B4:F2:58",
-      "censored": false
-    },
-    {
-      "name": "ENT4U_102524",
-      "url": "http://entertainmentj4u.com/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:8B:94:20",
       "censored": false
     },
     {
