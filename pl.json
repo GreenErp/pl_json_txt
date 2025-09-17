@@ -6,6 +6,13 @@
       "type": "por",
       "mac": "00:1A:79:78:EF:19",
       "censored": false
+    },   
+{
+      "name": "INDIA TV",
+      "url": "http://tv.indigotv.me/c/",
+      "type": "por",
+      "mac": "00:1A:79:00:05:A3",
+      "censored": false
     }
   ],
    "pl-more" :[
