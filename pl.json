@@ -5,10 +5,18 @@
       "url": "http://dhoom4u.me/stalker_portal/c/",
       "type": "por",
       "mac": "00:1A:79:78:EF:19",
-      "macs": "00:1A:79:78:EF:19,00:1A:79:64:ED:FB,00:1A:79:67:C4:1A,00:1A:79:7B:6F:13,00:1A:79:BB:41:55,00:1A:79:51:A4:42",
+      "macs": "00:1A:79:78:EF:19,00:1A:79:7B:6E:4D,00:1A:79:64:ED:FB,00:1A:79:67:C4:1A,00:1A:79:7B:6F:13,00:1A:79:BB:41:55,00:1A:79:51:A4:42",
       "censored": false
-    },   
-{
+    },
+        {
+      "name": "NEWDITT_291225",
+      "url": "http://tv.indigotv.me/c/",
+      "type": "por",
+      "mac": "00:1A:79:AB:B7:51",
+      "macs": "00:1A:79:79:4E:35,00:1A:79:66:2E:16,00:1A:79:44:03:CC,00:1A:79:85:6D:F7,00:1A:79:E5:CC:74,00:1A:79:76:B1:5E,00:1A:79:53:71:9F,00:1A:79:32:31:31,00:1A:79:42:39:83,00:1A:79:65:60:6B,00:1A:79:6F:BC:81,00:1A:79:BC:AA:A2,00:1A:79:64:54:70,00:1A:79:B5:83:D6,00:1A:79:65:BA:67,00:1A:79:7E:E7:B4,00:1A:79:6C:8A:8B,00:1A:79:36:39:34,00:1A:79:55:17:25,00:1A:79:1E:3A:B7,00:1A:79:80:6C:7A,00:1A:79:B6:30:B1,00:1A:79:80:40:40,00:1A:79:44:D2:12,00:1A:79:40:23:25,00:1A:79:77:DA:0E,00:1A:79:7A:3B:72,00:1A:79:31:39:46,00:1A:79:55:8D:2C,00:1A:79:70:1E:C7,00:1A:79:79:24:85,00:1A:79:6F:DF:48,00:1A:79:63:C0:C2,00:1A:79:6D:FD:8A,00:1A:79:7A:3E:01,00:1A:79:80:EB:F5,00:1A:79:78:CD:EF",
+      "censored": false
+    },
+    {
       "name": "INDIA TV",
       "url": "http://tv.indigotv.me/c/",
       "type": "por",
@@ -17,62 +25,13 @@
     }
   ],
    "pl-more" :[
-        {
-      "name": "INDIA TV",
-      "url": "http://tv.indigotv.me/c/",
-      "type": "por",
-      "mac": "00:1A:79:00:05:A3",
-      "censored": false
-    }
   ],
   "pl-more_old": [
-    {
-      "name": "PHW_100425",
-      "url": "http://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:78:EF:19",
-      "censored": false
-    },
-    {
-      "name": "India-list",
-      "url": "http://watchindia.net:8880",
-      "type": "m3u",
-      "username": "65596",
-      "password": "46234",
-      "censored": false
-    },
-{
-      "name": "TVPRO_011725",
-      "url": "http://w4ktvpro.com:8080/c/",
-      "type": "por",
-      "mac": "00:1A:79:60:3e:54",
-      "censored": false
-    },
     {
       "name": "EURO_101224",
       "url": "http://foxx-tv.com:8080/c/",
       "type": "por",
       "mac": "00:1A:79:CB:78:86",
-      "censored": false
-    },
-    {
-      "name": "EURO_112624",
-      "url": "http://exprestv.win:80/c/",
-      "type": "por",
-      "mac": "00:1A:79:0C:0A:98",
-      "censored": false
-    },
-    {
-      "name": "PHW_100425",
-      "url": "https://dhoom4u.me/stalker_portal/c/",
-      "type": "por",
-      "mac": "00:1A:79:7B:6E:4D",
-      "censored": false
-    },
-    {
-      "name": "TechHelper_list",
-      "url": "https://m3u.work/qUsHqiR0.m3u",
-      "type": "m3u",
       "censored": false
     }
   ]
