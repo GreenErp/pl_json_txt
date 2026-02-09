@@ -6,7 +6,9 @@
       "type": "por",
       "mac": "00:1A:79:07:07:43",
       "censored": false
-    },
+    }
+  ],
+  "pl-more": [
     {
       "name": "PHW_VPN_291225",
       "url": "http://dhoom4u.me/stalker_portal/c/",
@@ -23,7 +25,5 @@
       "password": "71403",
       "censored": false
     }
-  ],
-  "pl-more": [
   ]
 }
