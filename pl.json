@@ -4,8 +4,6 @@
       "name": "DITV_MCS1",
       "url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/gh-pages/index.m3u", 
       "type": "m3u",
-      "username": "",
-      "password": "",
       "censored": false
     }
   ],
