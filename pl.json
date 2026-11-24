@@ -1,7 +1,7 @@
 {
   "pl": [
     {
-      "name": "DITV_MCS1",
+      "name": "DITV_MCS2",
       "url": "https://raw.githubusercontent.com/GreenErp/pl_json_txt/refs/heads/main/index1.m3u",
       "type": "m3u",
       "censored": false
